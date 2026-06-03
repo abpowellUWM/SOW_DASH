@@ -1,0 +1,2257 @@
+county,var_base,estimate,geography_level
+ADAMS,female_victims,79,county
+ADAMS,male_victims,65,county
+ASHLAND,female_victims,79,county
+ASHLAND,male_victims,63,county
+BARRON,female_victims,90,county
+BARRON,male_victims,58,county
+BAYFIELD,female_victims,21,county
+BAYFIELD,male_victims,14,county
+BROWN,female_victims,1037,county
+BROWN,male_victims,812,county
+BROWN,unknown_victims,6,county
+"BROWN, OUTAGAMIE",female_victims,1,county
+"BROWN, OUTAGAMIE",male_victims,1,county
+"BROWN, SHAWANO",female_victims,10,county
+"BROWN, SHAWANO",male_victims,4,county
+"BROWN, SHAWANO",unknown_victims,1,county
+BUFFALO,female_victims,15,county
+BUFFALO,male_victims,5,county
+BURNETT,female_victims,57,county
+BURNETT,male_victims,73,county
+CALUMET,female_victims,58,county
+CALUMET,male_victims,44,county
+"CALUMET, MANITOWOC",female_victims,6,county
+"CALUMET, MANITOWOC",male_victims,5,county
+"CALUMET, OUTAGAMIE, WINNEBAGO",female_victims,409,county
+"CALUMET, OUTAGAMIE, WINNEBAGO",male_victims,371,county
+"CALUMET, OUTAGAMIE, WINNEBAGO",unknown_victims,1,county
+"CALUMET, WINNEBAGO",female_victims,88,county
+"CALUMET, WINNEBAGO",male_victims,43,county
+CHIPPEWA,female_victims,188,county
+CHIPPEWA,male_victims,147,county
+CHIPPEWA,unknown_victims,4,county
+"CHIPPEWA, CLARK",female_victims,17,county
+"CHIPPEWA, CLARK",male_victims,25,county
+"CHIPPEWA, EAU CLAIRE",female_victims,437,county
+"CHIPPEWA, EAU CLAIRE",male_victims,415,county
+CLARK,female_victims,69,county
+CLARK,male_victims,49,county
+"CLARK, MARATHON",female_victims,26,county
+"CLARK, MARATHON",male_victims,10,county
+COLUMBIA,female_victims,110,county
+COLUMBIA,male_victims,102,county
+CRAWFORD,female_victims,70,county
+CRAWFORD,male_victims,57,county
+DANE,female_victims,2077,county
+DANE,male_victims,1490,county
+DANE,unknown_victims,21,county
+"DANE, GREEN",female_victims,5,county
+"DANE, GREEN",male_victims,3,county
+"DANE, ROCK",female_victims,8,county
+"DANE, ROCK",male_victims,8,county
+DODGE,female_victims,170,county
+DODGE,male_victims,151,county
+DODGE,unknown_victims,1,county
+"DODGE, FOND DU LAC",female_victims,40,county
+"DODGE, FOND DU LAC",male_victims,30,county
+"DODGE, JEFFERSON",female_victims,118,county
+"DODGE, JEFFERSON",male_victims,69,county
+"DODGE, WASHINGTON",female_victims,37,county
+"DODGE, WASHINGTON",male_victims,25,county
+DOOR,female_victims,70,county
+DOOR,male_victims,52,county
+DOUGLAS,female_victims,165,county
+DOUGLAS,male_victims,125,county
+DUNN,female_victims,83,county
+DUNN,male_victims,59,county
+EAU CLAIRE,female_victims,100,county
+EAU CLAIRE,male_victims,97,county
+FLORENCE,female_victims,7,county
+FLORENCE,male_victims,15,county
+FOND DU LAC,female_victims,363,county
+FOND DU LAC,male_victims,207,county
+FOREST,female_victims,35,county
+FOREST,male_victims,31,county
+FOREST,unknown_victims,1,county
+GRANT,female_victims,173,county
+GRANT,male_victims,118,county
+GRANT,unknown_victims,10,county
+"GRANT, IOWA",female_victims,5,county
+"GRANT, IOWA",male_victims,4,county
+"GRANT, LAFAYETTE",female_victims,2,county
+"GRANT, LAFAYETTE",male_victims,4,county
+GREEN,female_victims,117,county
+GREEN,male_victims,88,county
+GREEN LAKE,female_victims,9,county
+GREEN LAKE,male_victims,18,county
+"GREEN LAKE, WAUSHARA",female_victims,12,county
+"GREEN LAKE, WAUSHARA",male_victims,7,county
+"GREEN, ROCK",female_victims,8,county
+"GREEN, ROCK",male_victims,5,county
+IOWA,female_victims,44,county
+IOWA,male_victims,20,county
+IRON,female_victims,13,county
+IRON,male_victims,22,county
+JACKSON,female_victims,67,county
+JACKSON,male_victims,65,county
+JEFFERSON,female_victims,152,county
+JEFFERSON,male_victims,112,county
+"JEFFERSON, WALWORTH",female_victims,32,county
+"JEFFERSON, WALWORTH",male_victims,33,county
+JUNEAU,female_victims,89,county
+JUNEAU,male_victims,73,county
+JUNEAU,unknown_victims,1,county
+KENOSHA,female_victims,744,county
+KENOSHA,male_victims,461,county
+"KENOSHA, WALWORTH",female_victims,2,county
+"KENOSHA, WALWORTH",male_victims,4,county
+KEWAUNEE,female_victims,50,county
+KEWAUNEE,male_victims,40,county
+LA CROSSE,female_victims,484,county
+LA CROSSE,male_victims,318,county
+LA CROSSE,unknown_victims,1,county
+LAFAYETTE,female_victims,46,county
+LAFAYETTE,male_victims,34,county
+LANGLADE,female_victims,37,county
+LANGLADE,male_victims,18,county
+LINCOLN,female_victims,101,county
+LINCOLN,male_victims,156,county
+LINCOLN,unknown_victims,4,county
+MANITOWOC,female_victims,214,county
+MANITOWOC,male_victims,162,county
+MANITOWOC,unknown_victims,1,county
+MARATHON,female_victims,310,county
+MARATHON,male_victims,213,county
+"MARATHON, WOOD",female_victims,115,county
+"MARATHON, WOOD",male_victims,58,county
+MARINETTE,female_victims,111,county
+MARINETTE,male_victims,78,county
+MARINETTE,unknown_victims,2,county
+MARQUETTE,female_victims,21,county
+MARQUETTE,male_victims,12,county
+MENOMINEE,female_victims,5,county
+MENOMINEE,male_victims,2,county
+MENOMINEE,unknown_victims,1,county
+MILWAUKEE,female_victims,11146,county
+MILWAUKEE,male_victims,5630,county
+MILWAUKEE,unknown_victims,274,county
+"MILWAUKEE, OZAUKEE",female_victims,1,county
+"MILWAUKEE, OZAUKEE",male_victims,1,county
+"MILWAUKEE, OZAUKEE",unknown_victims,1,county
+MONROE,female_victims,160,county
+MONROE,male_victims,129,county
+MONROE,unknown_victims,3,county
+NOT SPECIFIED,female_victims,148,county
+NOT SPECIFIED,male_victims,86,county
+NOT SPECIFIED,unknown_victims,2,county
+OCONTO,female_victims,103,county
+OCONTO,male_victims,81,county
+ONEIDA,female_victims,80,county
+ONEIDA,male_victims,83,county
+OUTAGAMIE,female_victims,237,county
+OUTAGAMIE,male_victims,175,county
+"OUTAGAMIE, WAUPACA",female_victims,1,county
+"OUTAGAMIE, WAUPACA",male_victims,3,county
+OZAUKEE,female_victims,108,county
+OZAUKEE,male_victims,64,county
+PEPIN,female_victims,2,county
+PEPIN,male_victims,6,county
+PIERCE,female_victims,28,county
+PIERCE,male_victims,37,county
+"PIERCE, ST CROIX",female_victims,49,county
+"PIERCE, ST CROIX",male_victims,35,county
+POLK,female_victims,109,county
+POLK,male_victims,65,county
+POLK,unknown_victims,1,county
+PORTAGE,female_victims,225,county
+PORTAGE,male_victims,187,county
+PORTAGE,unknown_victims,3,county
+PRICE,female_victims,38,county
+PRICE,male_victims,35,county
+RACINE,female_victims,705,county
+RACINE,male_victims,415,county
+RACINE,unknown_victims,4,county
+RICHLAND,female_victims,19,county
+RICHLAND,male_victims,19,county
+ROCK,female_victims,718,county
+ROCK,male_victims,517,county
+RUSK,female_victims,68,county
+RUSK,male_victims,54,county
+RUSK,unknown_victims,1,county
+SAUK,female_victims,179,county
+SAUK,male_victims,166,county
+SAWYER,female_victims,46,county
+SAWYER,male_victims,45,county
+SHAWANO,female_victims,125,county
+SHAWANO,male_victims,74,county
+SHEBOYGAN,female_victims,571,county
+SHEBOYGAN,male_victims,539,county
+ST CROIX,female_victims,129,county
+ST CROIX,male_victims,115,county
+ST CROIX,unknown_victims,1,county
+TAYLOR,female_victims,64,county
+TAYLOR,male_victims,69,county
+TREMPEALEAU,female_victims,25,county
+TREMPEALEAU,male_victims,23,county
+VERNON,female_victims,62,county
+VERNON,male_victims,49,county
+VILAS,female_victims,30,county
+VILAS,male_victims,21,county
+WALWORTH,female_victims,159,county
+WALWORTH,male_victims,142,county
+"WALWORTH, WAUKESHA",female_victims,8,county
+"WALWORTH, WAUKESHA",male_victims,5,county
+WASHBURN,female_victims,31,county
+WASHBURN,male_victims,38,county
+WASHINGTON,female_victims,174,county
+WASHINGTON,male_victims,157,county
+WASHINGTON,unknown_victims,3,county
+WAUKESHA,female_victims,659,county
+WAUKESHA,male_victims,513,county
+WAUPACA,female_victims,78,county
+WAUPACA,male_victims,67,county
+WAUSHARA,female_victims,24,county
+WAUSHARA,male_victims,26,county
+WINNEBAGO,female_victims,652,county
+WINNEBAGO,male_victims,437,county
+WINNEBAGO,unknown_victims,1,county
+WOOD,female_victims,185,county
+WOOD,male_victims,138,county
+ADAMS,female_victims_age_Under 18,5,county
+ADAMS,female_victims_age_18_24,7,county
+ADAMS,female_victims_age_25_34,8,county
+ADAMS,female_victims_age_35_44,18,county
+ADAMS,female_victims_age_45_54,31,county
+ADAMS,female_victims_age_55_64,4,county
+ADAMS,female_victims_age_65+,5,county
+ADAMS,male_victims_age_Under 18,22,county
+ADAMS,male_victims_age_18_24,8,county
+ADAMS,male_victims_age_25_34,6,county
+ADAMS,male_victims_age_35_44,11,county
+ADAMS,male_victims_age_45_54,6,county
+ADAMS,male_victims_age_55_64,8,county
+ADAMS,male_victims_age_65+,4,county
+ADAMS,unknown_victims_age_Under 18,0,county
+ADAMS,unknown_victims_age_18_24,0,county
+ADAMS,unknown_victims_age_25_34,0,county
+ADAMS,unknown_victims_age_35_44,0,county
+ADAMS,unknown_victims_age_45_54,0,county
+ADAMS,unknown_victims_age_55_64,0,county
+ADAMS,unknown_victims_age_65+,0,county
+ASHLAND,female_victims_age_Under 18,18,county
+ASHLAND,female_victims_age_18_24,8,county
+ASHLAND,female_victims_age_25_34,15,county
+ASHLAND,female_victims_age_35_44,19,county
+ASHLAND,female_victims_age_45_54,7,county
+ASHLAND,female_victims_age_55_64,3,county
+ASHLAND,female_victims_age_65+,9,county
+ASHLAND,male_victims_age_Under 18,11,county
+ASHLAND,male_victims_age_18_24,12,county
+ASHLAND,male_victims_age_25_34,5,county
+ASHLAND,male_victims_age_35_44,19,county
+ASHLAND,male_victims_age_45_54,7,county
+ASHLAND,male_victims_age_55_64,5,county
+ASHLAND,male_victims_age_65+,3,county
+ASHLAND,unknown_victims_age_Under 18,0,county
+ASHLAND,unknown_victims_age_18_24,0,county
+ASHLAND,unknown_victims_age_25_34,0,county
+ASHLAND,unknown_victims_age_35_44,0,county
+ASHLAND,unknown_victims_age_45_54,0,county
+ASHLAND,unknown_victims_age_55_64,0,county
+ASHLAND,unknown_victims_age_65+,0,county
+BARRON,female_victims_age_Under 18,14,county
+BARRON,female_victims_age_18_24,10,county
+BARRON,female_victims_age_25_34,25,county
+BARRON,female_victims_age_35_44,20,county
+BARRON,female_victims_age_45_54,11,county
+BARRON,female_victims_age_55_64,6,county
+BARRON,female_victims_age_65+,2,county
+BARRON,male_victims_age_Under 18,11,county
+BARRON,male_victims_age_18_24,5,county
+BARRON,male_victims_age_25_34,20,county
+BARRON,male_victims_age_35_44,11,county
+BARRON,male_victims_age_45_54,4,county
+BARRON,male_victims_age_55_64,5,county
+BARRON,male_victims_age_65+,2,county
+BARRON,unknown_victims_age_Under 18,0,county
+BARRON,unknown_victims_age_18_24,0,county
+BARRON,unknown_victims_age_25_34,0,county
+BARRON,unknown_victims_age_35_44,0,county
+BARRON,unknown_victims_age_45_54,0,county
+BARRON,unknown_victims_age_55_64,0,county
+BARRON,unknown_victims_age_65+,0,county
+BAYFIELD,female_victims_age_Under 18,5,county
+BAYFIELD,female_victims_age_18_24,1,county
+BAYFIELD,female_victims_age_25_34,5,county
+BAYFIELD,female_victims_age_35_44,1,county
+BAYFIELD,female_victims_age_45_54,7,county
+BAYFIELD,female_victims_age_55_64,2,county
+BAYFIELD,female_victims_age_65+,0,county
+BAYFIELD,male_victims_age_Under 18,3,county
+BAYFIELD,male_victims_age_18_24,0,county
+BAYFIELD,male_victims_age_25_34,2,county
+BAYFIELD,male_victims_age_35_44,4,county
+BAYFIELD,male_victims_age_45_54,2,county
+BAYFIELD,male_victims_age_55_64,3,county
+BAYFIELD,male_victims_age_65+,0,county
+BAYFIELD,unknown_victims_age_Under 18,0,county
+BAYFIELD,unknown_victims_age_18_24,0,county
+BAYFIELD,unknown_victims_age_25_34,0,county
+BAYFIELD,unknown_victims_age_35_44,0,county
+BAYFIELD,unknown_victims_age_45_54,0,county
+BAYFIELD,unknown_victims_age_55_64,0,county
+BAYFIELD,unknown_victims_age_65+,0,county
+BROWN,female_victims_age_Under 18,218,county
+BROWN,female_victims_age_18_24,169,county
+BROWN,female_victims_age_25_34,265,county
+BROWN,female_victims_age_35_44,201,county
+BROWN,female_victims_age_45_54,100,county
+BROWN,female_victims_age_55_64,51,county
+BROWN,female_victims_age_65+,19,county
+BROWN,male_victims_age_Under 18,268,county
+BROWN,male_victims_age_18_24,103,county
+BROWN,male_victims_age_25_34,145,county
+BROWN,male_victims_age_35_44,128,county
+BROWN,male_victims_age_45_54,87,county
+BROWN,male_victims_age_55_64,50,county
+BROWN,male_victims_age_65+,20,county
+BROWN,unknown_victims_age_Under 18,0,county
+BROWN,unknown_victims_age_18_24,0,county
+BROWN,unknown_victims_age_25_34,0,county
+BROWN,unknown_victims_age_35_44,0,county
+BROWN,unknown_victims_age_45_54,0,county
+BROWN,unknown_victims_age_55_64,0,county
+BROWN,unknown_victims_age_65+,0,county
+"BROWN, OUTAGAMIE",female_victims_age_Under 18,0,county
+"BROWN, OUTAGAMIE",female_victims_age_18_24,1,county
+"BROWN, OUTAGAMIE",female_victims_age_25_34,0,county
+"BROWN, OUTAGAMIE",female_victims_age_35_44,0,county
+"BROWN, OUTAGAMIE",female_victims_age_45_54,0,county
+"BROWN, OUTAGAMIE",female_victims_age_55_64,0,county
+"BROWN, OUTAGAMIE",female_victims_age_65+,0,county
+"BROWN, OUTAGAMIE",male_victims_age_Under 18,0,county
+"BROWN, OUTAGAMIE",male_victims_age_18_24,1,county
+"BROWN, OUTAGAMIE",male_victims_age_25_34,0,county
+"BROWN, OUTAGAMIE",male_victims_age_35_44,0,county
+"BROWN, OUTAGAMIE",male_victims_age_45_54,0,county
+"BROWN, OUTAGAMIE",male_victims_age_55_64,0,county
+"BROWN, OUTAGAMIE",male_victims_age_65+,0,county
+"BROWN, OUTAGAMIE",unknown_victims_age_Under 18,0,county
+"BROWN, OUTAGAMIE",unknown_victims_age_18_24,0,county
+"BROWN, OUTAGAMIE",unknown_victims_age_25_34,0,county
+"BROWN, OUTAGAMIE",unknown_victims_age_35_44,0,county
+"BROWN, OUTAGAMIE",unknown_victims_age_45_54,0,county
+"BROWN, OUTAGAMIE",unknown_victims_age_55_64,0,county
+"BROWN, OUTAGAMIE",unknown_victims_age_65+,0,county
+"BROWN, SHAWANO",female_victims_age_Under 18,1,county
+"BROWN, SHAWANO",female_victims_age_18_24,1,county
+"BROWN, SHAWANO",female_victims_age_25_34,2,county
+"BROWN, SHAWANO",female_victims_age_35_44,3,county
+"BROWN, SHAWANO",female_victims_age_45_54,1,county
+"BROWN, SHAWANO",female_victims_age_55_64,2,county
+"BROWN, SHAWANO",female_victims_age_65+,0,county
+"BROWN, SHAWANO",male_victims_age_Under 18,2,county
+"BROWN, SHAWANO",male_victims_age_18_24,0,county
+"BROWN, SHAWANO",male_victims_age_25_34,0,county
+"BROWN, SHAWANO",male_victims_age_35_44,1,county
+"BROWN, SHAWANO",male_victims_age_45_54,1,county
+"BROWN, SHAWANO",male_victims_age_55_64,0,county
+"BROWN, SHAWANO",male_victims_age_65+,0,county
+"BROWN, SHAWANO",unknown_victims_age_Under 18,0,county
+"BROWN, SHAWANO",unknown_victims_age_18_24,0,county
+"BROWN, SHAWANO",unknown_victims_age_25_34,0,county
+"BROWN, SHAWANO",unknown_victims_age_35_44,0,county
+"BROWN, SHAWANO",unknown_victims_age_45_54,0,county
+"BROWN, SHAWANO",unknown_victims_age_55_64,0,county
+"BROWN, SHAWANO",unknown_victims_age_65+,0,county
+BUFFALO,female_victims_age_Under 18,1,county
+BUFFALO,female_victims_age_18_24,3,county
+BUFFALO,female_victims_age_25_34,1,county
+BUFFALO,female_victims_age_35_44,3,county
+BUFFALO,female_victims_age_45_54,4,county
+BUFFALO,female_victims_age_55_64,1,county
+BUFFALO,female_victims_age_65+,1,county
+BUFFALO,male_victims_age_Under 18,1,county
+BUFFALO,male_victims_age_18_24,1,county
+BUFFALO,male_victims_age_25_34,1,county
+BUFFALO,male_victims_age_35_44,1,county
+BUFFALO,male_victims_age_45_54,0,county
+BUFFALO,male_victims_age_55_64,1,county
+BUFFALO,male_victims_age_65+,0,county
+BUFFALO,unknown_victims_age_Under 18,0,county
+BUFFALO,unknown_victims_age_18_24,0,county
+BUFFALO,unknown_victims_age_25_34,0,county
+BUFFALO,unknown_victims_age_35_44,0,county
+BUFFALO,unknown_victims_age_45_54,0,county
+BUFFALO,unknown_victims_age_55_64,0,county
+BUFFALO,unknown_victims_age_65+,0,county
+BURNETT,female_victims_age_Under 18,3,county
+BURNETT,female_victims_age_18_24,4,county
+BURNETT,female_victims_age_25_34,12,county
+BURNETT,female_victims_age_35_44,23,county
+BURNETT,female_victims_age_45_54,4,county
+BURNETT,female_victims_age_55_64,6,county
+BURNETT,female_victims_age_65+,5,county
+BURNETT,male_victims_age_Under 18,14,county
+BURNETT,male_victims_age_18_24,11,county
+BURNETT,male_victims_age_25_34,8,county
+BURNETT,male_victims_age_35_44,9,county
+BURNETT,male_victims_age_45_54,11,county
+BURNETT,male_victims_age_55_64,12,county
+BURNETT,male_victims_age_65+,7,county
+BURNETT,unknown_victims_age_Under 18,0,county
+BURNETT,unknown_victims_age_18_24,0,county
+BURNETT,unknown_victims_age_25_34,0,county
+BURNETT,unknown_victims_age_35_44,0,county
+BURNETT,unknown_victims_age_45_54,0,county
+BURNETT,unknown_victims_age_55_64,0,county
+BURNETT,unknown_victims_age_65+,0,county
+CALUMET,female_victims_age_Under 18,7,county
+CALUMET,female_victims_age_18_24,6,county
+CALUMET,female_victims_age_25_34,14,county
+CALUMET,female_victims_age_35_44,17,county
+CALUMET,female_victims_age_45_54,5,county
+CALUMET,female_victims_age_55_64,6,county
+CALUMET,female_victims_age_65+,3,county
+CALUMET,male_victims_age_Under 18,9,county
+CALUMET,male_victims_age_18_24,7,county
+CALUMET,male_victims_age_25_34,12,county
+CALUMET,male_victims_age_35_44,8,county
+CALUMET,male_victims_age_45_54,5,county
+CALUMET,male_victims_age_55_64,3,county
+CALUMET,male_victims_age_65+,0,county
+CALUMET,unknown_victims_age_Under 18,0,county
+CALUMET,unknown_victims_age_18_24,0,county
+CALUMET,unknown_victims_age_25_34,0,county
+CALUMET,unknown_victims_age_35_44,0,county
+CALUMET,unknown_victims_age_45_54,0,county
+CALUMET,unknown_victims_age_55_64,0,county
+CALUMET,unknown_victims_age_65+,0,county
+"CALUMET, MANITOWOC",female_victims_age_Under 18,1,county
+"CALUMET, MANITOWOC",female_victims_age_18_24,0,county
+"CALUMET, MANITOWOC",female_victims_age_25_34,0,county
+"CALUMET, MANITOWOC",female_victims_age_35_44,2,county
+"CALUMET, MANITOWOC",female_victims_age_45_54,0,county
+"CALUMET, MANITOWOC",female_victims_age_55_64,1,county
+"CALUMET, MANITOWOC",female_victims_age_65+,2,county
+"CALUMET, MANITOWOC",male_victims_age_Under 18,1,county
+"CALUMET, MANITOWOC",male_victims_age_18_24,1,county
+"CALUMET, MANITOWOC",male_victims_age_25_34,2,county
+"CALUMET, MANITOWOC",male_victims_age_35_44,1,county
+"CALUMET, MANITOWOC",male_victims_age_45_54,0,county
+"CALUMET, MANITOWOC",male_victims_age_55_64,0,county
+"CALUMET, MANITOWOC",male_victims_age_65+,0,county
+"CALUMET, MANITOWOC",unknown_victims_age_Under 18,0,county
+"CALUMET, MANITOWOC",unknown_victims_age_18_24,0,county
+"CALUMET, MANITOWOC",unknown_victims_age_25_34,0,county
+"CALUMET, MANITOWOC",unknown_victims_age_35_44,0,county
+"CALUMET, MANITOWOC",unknown_victims_age_45_54,0,county
+"CALUMET, MANITOWOC",unknown_victims_age_55_64,0,county
+"CALUMET, MANITOWOC",unknown_victims_age_65+,0,county
+"CALUMET, OUTAGAMIE, WINNEBAGO",female_victims_age_Under 18,53,county
+"CALUMET, OUTAGAMIE, WINNEBAGO",female_victims_age_18_24,60,county
+"CALUMET, OUTAGAMIE, WINNEBAGO",female_victims_age_25_34,107,county
+"CALUMET, OUTAGAMIE, WINNEBAGO",female_victims_age_35_44,115,county
+"CALUMET, OUTAGAMIE, WINNEBAGO",female_victims_age_45_54,47,county
+"CALUMET, OUTAGAMIE, WINNEBAGO",female_victims_age_55_64,19,county
+"CALUMET, OUTAGAMIE, WINNEBAGO",female_victims_age_65+,7,county
+"CALUMET, OUTAGAMIE, WINNEBAGO",male_victims_age_Under 18,87,county
+"CALUMET, OUTAGAMIE, WINNEBAGO",male_victims_age_18_24,52,county
+"CALUMET, OUTAGAMIE, WINNEBAGO",male_victims_age_25_34,93,county
+"CALUMET, OUTAGAMIE, WINNEBAGO",male_victims_age_35_44,65,county
+"CALUMET, OUTAGAMIE, WINNEBAGO",male_victims_age_45_54,41,county
+"CALUMET, OUTAGAMIE, WINNEBAGO",male_victims_age_55_64,20,county
+"CALUMET, OUTAGAMIE, WINNEBAGO",male_victims_age_65+,12,county
+"CALUMET, OUTAGAMIE, WINNEBAGO",unknown_victims_age_Under 18,0,county
+"CALUMET, OUTAGAMIE, WINNEBAGO",unknown_victims_age_18_24,0,county
+"CALUMET, OUTAGAMIE, WINNEBAGO",unknown_victims_age_25_34,0,county
+"CALUMET, OUTAGAMIE, WINNEBAGO",unknown_victims_age_35_44,0,county
+"CALUMET, OUTAGAMIE, WINNEBAGO",unknown_victims_age_45_54,0,county
+"CALUMET, OUTAGAMIE, WINNEBAGO",unknown_victims_age_55_64,0,county
+"CALUMET, OUTAGAMIE, WINNEBAGO",unknown_victims_age_65+,0,county
+"CALUMET, WINNEBAGO",female_victims_age_Under 18,27,county
+"CALUMET, WINNEBAGO",female_victims_age_18_24,19,county
+"CALUMET, WINNEBAGO",female_victims_age_25_34,12,county
+"CALUMET, WINNEBAGO",female_victims_age_35_44,14,county
+"CALUMET, WINNEBAGO",female_victims_age_45_54,11,county
+"CALUMET, WINNEBAGO",female_victims_age_55_64,2,county
+"CALUMET, WINNEBAGO",female_victims_age_65+,2,county
+"CALUMET, WINNEBAGO",male_victims_age_Under 18,16,county
+"CALUMET, WINNEBAGO",male_victims_age_18_24,5,county
+"CALUMET, WINNEBAGO",male_victims_age_25_34,7,county
+"CALUMET, WINNEBAGO",male_victims_age_35_44,3,county
+"CALUMET, WINNEBAGO",male_victims_age_45_54,7,county
+"CALUMET, WINNEBAGO",male_victims_age_55_64,1,county
+"CALUMET, WINNEBAGO",male_victims_age_65+,4,county
+"CALUMET, WINNEBAGO",unknown_victims_age_Under 18,0,county
+"CALUMET, WINNEBAGO",unknown_victims_age_18_24,0,county
+"CALUMET, WINNEBAGO",unknown_victims_age_25_34,0,county
+"CALUMET, WINNEBAGO",unknown_victims_age_35_44,0,county
+"CALUMET, WINNEBAGO",unknown_victims_age_45_54,0,county
+"CALUMET, WINNEBAGO",unknown_victims_age_55_64,0,county
+"CALUMET, WINNEBAGO",unknown_victims_age_65+,0,county
+CHIPPEWA,female_victims_age_Under 18,27,county
+CHIPPEWA,female_victims_age_18_24,33,county
+CHIPPEWA,female_victims_age_25_34,43,county
+CHIPPEWA,female_victims_age_35_44,47,county
+CHIPPEWA,female_victims_age_45_54,21,county
+CHIPPEWA,female_victims_age_55_64,12,county
+CHIPPEWA,female_victims_age_65+,5,county
+CHIPPEWA,male_victims_age_Under 18,35,county
+CHIPPEWA,male_victims_age_18_24,21,county
+CHIPPEWA,male_victims_age_25_34,26,county
+CHIPPEWA,male_victims_age_35_44,30,county
+CHIPPEWA,male_victims_age_45_54,18,county
+CHIPPEWA,male_victims_age_55_64,11,county
+CHIPPEWA,male_victims_age_65+,5,county
+CHIPPEWA,unknown_victims_age_Under 18,0,county
+CHIPPEWA,unknown_victims_age_18_24,0,county
+CHIPPEWA,unknown_victims_age_25_34,0,county
+CHIPPEWA,unknown_victims_age_35_44,0,county
+CHIPPEWA,unknown_victims_age_45_54,0,county
+CHIPPEWA,unknown_victims_age_55_64,0,county
+CHIPPEWA,unknown_victims_age_65+,0,county
+"CHIPPEWA, CLARK",female_victims_age_Under 18,0,county
+"CHIPPEWA, CLARK",female_victims_age_18_24,2,county
+"CHIPPEWA, CLARK",female_victims_age_25_34,3,county
+"CHIPPEWA, CLARK",female_victims_age_35_44,7,county
+"CHIPPEWA, CLARK",female_victims_age_45_54,4,county
+"CHIPPEWA, CLARK",female_victims_age_55_64,0,county
+"CHIPPEWA, CLARK",female_victims_age_65+,1,county
+"CHIPPEWA, CLARK",male_victims_age_Under 18,1,county
+"CHIPPEWA, CLARK",male_victims_age_18_24,0,county
+"CHIPPEWA, CLARK",male_victims_age_25_34,8,county
+"CHIPPEWA, CLARK",male_victims_age_35_44,4,county
+"CHIPPEWA, CLARK",male_victims_age_45_54,4,county
+"CHIPPEWA, CLARK",male_victims_age_55_64,4,county
+"CHIPPEWA, CLARK",male_victims_age_65+,3,county
+"CHIPPEWA, CLARK",unknown_victims_age_Under 18,0,county
+"CHIPPEWA, CLARK",unknown_victims_age_18_24,0,county
+"CHIPPEWA, CLARK",unknown_victims_age_25_34,0,county
+"CHIPPEWA, CLARK",unknown_victims_age_35_44,0,county
+"CHIPPEWA, CLARK",unknown_victims_age_45_54,0,county
+"CHIPPEWA, CLARK",unknown_victims_age_55_64,0,county
+"CHIPPEWA, CLARK",unknown_victims_age_65+,0,county
+"CHIPPEWA, EAU CLAIRE",female_victims_age_Under 18,57,county
+"CHIPPEWA, EAU CLAIRE",female_victims_age_18_24,91,county
+"CHIPPEWA, EAU CLAIRE",female_victims_age_25_34,111,county
+"CHIPPEWA, EAU CLAIRE",female_victims_age_35_44,86,county
+"CHIPPEWA, EAU CLAIRE",female_victims_age_45_54,57,county
+"CHIPPEWA, EAU CLAIRE",female_victims_age_55_64,22,county
+"CHIPPEWA, EAU CLAIRE",female_victims_age_65+,10,county
+"CHIPPEWA, EAU CLAIRE",male_victims_age_Under 18,98,county
+"CHIPPEWA, EAU CLAIRE",male_victims_age_18_24,75,county
+"CHIPPEWA, EAU CLAIRE",male_victims_age_25_34,86,county
+"CHIPPEWA, EAU CLAIRE",male_victims_age_35_44,72,county
+"CHIPPEWA, EAU CLAIRE",male_victims_age_45_54,45,county
+"CHIPPEWA, EAU CLAIRE",male_victims_age_55_64,27,county
+"CHIPPEWA, EAU CLAIRE",male_victims_age_65+,10,county
+"CHIPPEWA, EAU CLAIRE",unknown_victims_age_Under 18,0,county
+"CHIPPEWA, EAU CLAIRE",unknown_victims_age_18_24,0,county
+"CHIPPEWA, EAU CLAIRE",unknown_victims_age_25_34,0,county
+"CHIPPEWA, EAU CLAIRE",unknown_victims_age_35_44,0,county
+"CHIPPEWA, EAU CLAIRE",unknown_victims_age_45_54,0,county
+"CHIPPEWA, EAU CLAIRE",unknown_victims_age_55_64,0,county
+"CHIPPEWA, EAU CLAIRE",unknown_victims_age_65+,0,county
+CLARK,female_victims_age_Under 18,11,county
+CLARK,female_victims_age_18_24,8,county
+CLARK,female_victims_age_25_34,16,county
+CLARK,female_victims_age_35_44,15,county
+CLARK,female_victims_age_45_54,11,county
+CLARK,female_victims_age_55_64,3,county
+CLARK,female_victims_age_65+,4,county
+CLARK,male_victims_age_Under 18,11,county
+CLARK,male_victims_age_18_24,8,county
+CLARK,male_victims_age_25_34,8,county
+CLARK,male_victims_age_35_44,12,county
+CLARK,male_victims_age_45_54,3,county
+CLARK,male_victims_age_55_64,5,county
+CLARK,male_victims_age_65+,2,county
+CLARK,unknown_victims_age_Under 18,0,county
+CLARK,unknown_victims_age_18_24,0,county
+CLARK,unknown_victims_age_25_34,0,county
+CLARK,unknown_victims_age_35_44,0,county
+CLARK,unknown_victims_age_45_54,0,county
+CLARK,unknown_victims_age_55_64,0,county
+CLARK,unknown_victims_age_65+,0,county
+"CLARK, MARATHON",female_victims_age_Under 18,0,county
+"CLARK, MARATHON",female_victims_age_18_24,10,county
+"CLARK, MARATHON",female_victims_age_25_34,4,county
+"CLARK, MARATHON",female_victims_age_35_44,4,county
+"CLARK, MARATHON",female_victims_age_45_54,6,county
+"CLARK, MARATHON",female_victims_age_55_64,0,county
+"CLARK, MARATHON",female_victims_age_65+,2,county
+"CLARK, MARATHON",male_victims_age_Under 18,5,county
+"CLARK, MARATHON",male_victims_age_18_24,2,county
+"CLARK, MARATHON",male_victims_age_25_34,0,county
+"CLARK, MARATHON",male_victims_age_35_44,0,county
+"CLARK, MARATHON",male_victims_age_45_54,1,county
+"CLARK, MARATHON",male_victims_age_55_64,0,county
+"CLARK, MARATHON",male_victims_age_65+,0,county
+"CLARK, MARATHON",unknown_victims_age_Under 18,0,county
+"CLARK, MARATHON",unknown_victims_age_18_24,0,county
+"CLARK, MARATHON",unknown_victims_age_25_34,0,county
+"CLARK, MARATHON",unknown_victims_age_35_44,0,county
+"CLARK, MARATHON",unknown_victims_age_45_54,0,county
+"CLARK, MARATHON",unknown_victims_age_55_64,0,county
+"CLARK, MARATHON",unknown_victims_age_65+,0,county
+COLUMBIA,female_victims_age_Under 18,23,county
+COLUMBIA,female_victims_age_18_24,12,county
+COLUMBIA,female_victims_age_25_34,26,county
+COLUMBIA,female_victims_age_35_44,25,county
+COLUMBIA,female_victims_age_45_54,9,county
+COLUMBIA,female_victims_age_55_64,10,county
+COLUMBIA,female_victims_age_65+,4,county
+COLUMBIA,male_victims_age_Under 18,18,county
+COLUMBIA,male_victims_age_18_24,16,county
+COLUMBIA,male_victims_age_25_34,20,county
+COLUMBIA,male_victims_age_35_44,21,county
+COLUMBIA,male_victims_age_45_54,12,county
+COLUMBIA,male_victims_age_55_64,7,county
+COLUMBIA,male_victims_age_65+,5,county
+COLUMBIA,unknown_victims_age_Under 18,0,county
+COLUMBIA,unknown_victims_age_18_24,0,county
+COLUMBIA,unknown_victims_age_25_34,0,county
+COLUMBIA,unknown_victims_age_35_44,0,county
+COLUMBIA,unknown_victims_age_45_54,0,county
+COLUMBIA,unknown_victims_age_55_64,0,county
+COLUMBIA,unknown_victims_age_65+,0,county
+CRAWFORD,female_victims_age_Under 18,8,county
+CRAWFORD,female_victims_age_18_24,4,county
+CRAWFORD,female_victims_age_25_34,13,county
+CRAWFORD,female_victims_age_35_44,22,county
+CRAWFORD,female_victims_age_45_54,12,county
+CRAWFORD,female_victims_age_55_64,6,county
+CRAWFORD,female_victims_age_65+,5,county
+CRAWFORD,male_victims_age_Under 18,10,county
+CRAWFORD,male_victims_age_18_24,10,county
+CRAWFORD,male_victims_age_25_34,10,county
+CRAWFORD,male_victims_age_35_44,11,county
+CRAWFORD,male_victims_age_45_54,11,county
+CRAWFORD,male_victims_age_55_64,2,county
+CRAWFORD,male_victims_age_65+,3,county
+CRAWFORD,unknown_victims_age_Under 18,0,county
+CRAWFORD,unknown_victims_age_18_24,0,county
+CRAWFORD,unknown_victims_age_25_34,0,county
+CRAWFORD,unknown_victims_age_35_44,0,county
+CRAWFORD,unknown_victims_age_45_54,0,county
+CRAWFORD,unknown_victims_age_55_64,0,county
+CRAWFORD,unknown_victims_age_65+,0,county
+DANE,female_victims_age_Under 18,234,county
+DANE,female_victims_age_18_24,449,county
+DANE,female_victims_age_25_34,556,county
+DANE,female_victims_age_35_44,423,county
+DANE,female_victims_age_45_54,215,county
+DANE,female_victims_age_55_64,122,county
+DANE,female_victims_age_65+,64,county
+DANE,male_victims_age_Under 18,185,county
+DANE,male_victims_age_18_24,275,county
+DANE,male_victims_age_25_34,388,county
+DANE,male_victims_age_35_44,270,county
+DANE,male_victims_age_45_54,161,county
+DANE,male_victims_age_55_64,128,county
+DANE,male_victims_age_65+,71,county
+DANE,unknown_victims_age_Under 18,1,county
+DANE,unknown_victims_age_18_24,1,county
+DANE,unknown_victims_age_25_34,1,county
+DANE,unknown_victims_age_35_44,16,county
+DANE,unknown_victims_age_45_54,0,county
+DANE,unknown_victims_age_55_64,0,county
+DANE,unknown_victims_age_65+,0,county
+"DANE, GREEN",female_victims_age_Under 18,0,county
+"DANE, GREEN",female_victims_age_18_24,1,county
+"DANE, GREEN",female_victims_age_25_34,0,county
+"DANE, GREEN",female_victims_age_35_44,2,county
+"DANE, GREEN",female_victims_age_45_54,0,county
+"DANE, GREEN",female_victims_age_55_64,0,county
+"DANE, GREEN",female_victims_age_65+,2,county
+"DANE, GREEN",male_victims_age_Under 18,1,county
+"DANE, GREEN",male_victims_age_18_24,0,county
+"DANE, GREEN",male_victims_age_25_34,0,county
+"DANE, GREEN",male_victims_age_35_44,0,county
+"DANE, GREEN",male_victims_age_45_54,0,county
+"DANE, GREEN",male_victims_age_55_64,2,county
+"DANE, GREEN",male_victims_age_65+,0,county
+"DANE, GREEN",unknown_victims_age_Under 18,0,county
+"DANE, GREEN",unknown_victims_age_18_24,0,county
+"DANE, GREEN",unknown_victims_age_25_34,0,county
+"DANE, GREEN",unknown_victims_age_35_44,0,county
+"DANE, GREEN",unknown_victims_age_45_54,0,county
+"DANE, GREEN",unknown_victims_age_55_64,0,county
+"DANE, GREEN",unknown_victims_age_65+,0,county
+"DANE, ROCK",female_victims_age_Under 18,2,county
+"DANE, ROCK",female_victims_age_18_24,0,county
+"DANE, ROCK",female_victims_age_25_34,3,county
+"DANE, ROCK",female_victims_age_35_44,1,county
+"DANE, ROCK",female_victims_age_45_54,0,county
+"DANE, ROCK",female_victims_age_55_64,0,county
+"DANE, ROCK",female_victims_age_65+,1,county
+"DANE, ROCK",male_victims_age_Under 18,2,county
+"DANE, ROCK",male_victims_age_18_24,0,county
+"DANE, ROCK",male_victims_age_25_34,3,county
+"DANE, ROCK",male_victims_age_35_44,0,county
+"DANE, ROCK",male_victims_age_45_54,1,county
+"DANE, ROCK",male_victims_age_55_64,2,county
+"DANE, ROCK",male_victims_age_65+,0,county
+"DANE, ROCK",unknown_victims_age_Under 18,0,county
+"DANE, ROCK",unknown_victims_age_18_24,0,county
+"DANE, ROCK",unknown_victims_age_25_34,0,county
+"DANE, ROCK",unknown_victims_age_35_44,0,county
+"DANE, ROCK",unknown_victims_age_45_54,0,county
+"DANE, ROCK",unknown_victims_age_55_64,0,county
+"DANE, ROCK",unknown_victims_age_65+,0,county
+DODGE,female_victims_age_Under 18,16,county
+DODGE,female_victims_age_18_24,17,county
+DODGE,female_victims_age_25_34,37,county
+DODGE,female_victims_age_35_44,51,county
+DODGE,female_victims_age_45_54,33,county
+DODGE,female_victims_age_55_64,7,county
+DODGE,female_victims_age_65+,5,county
+DODGE,male_victims_age_Under 18,25,county
+DODGE,male_victims_age_18_24,14,county
+DODGE,male_victims_age_25_34,30,county
+DODGE,male_victims_age_35_44,35,county
+DODGE,male_victims_age_45_54,25,county
+DODGE,male_victims_age_55_64,15,county
+DODGE,male_victims_age_65+,6,county
+DODGE,unknown_victims_age_Under 18,1,county
+DODGE,unknown_victims_age_18_24,0,county
+DODGE,unknown_victims_age_25_34,0,county
+DODGE,unknown_victims_age_35_44,0,county
+DODGE,unknown_victims_age_45_54,0,county
+DODGE,unknown_victims_age_55_64,0,county
+DODGE,unknown_victims_age_65+,0,county
+"DODGE, FOND DU LAC",female_victims_age_Under 18,5,county
+"DODGE, FOND DU LAC",female_victims_age_18_24,5,county
+"DODGE, FOND DU LAC",female_victims_age_25_34,10,county
+"DODGE, FOND DU LAC",female_victims_age_35_44,6,county
+"DODGE, FOND DU LAC",female_victims_age_45_54,9,county
+"DODGE, FOND DU LAC",female_victims_age_55_64,4,county
+"DODGE, FOND DU LAC",female_victims_age_65+,1,county
+"DODGE, FOND DU LAC",male_victims_age_Under 18,9,county
+"DODGE, FOND DU LAC",male_victims_age_18_24,4,county
+"DODGE, FOND DU LAC",male_victims_age_25_34,8,county
+"DODGE, FOND DU LAC",male_victims_age_35_44,3,county
+"DODGE, FOND DU LAC",male_victims_age_45_54,4,county
+"DODGE, FOND DU LAC",male_victims_age_55_64,1,county
+"DODGE, FOND DU LAC",male_victims_age_65+,1,county
+"DODGE, FOND DU LAC",unknown_victims_age_Under 18,0,county
+"DODGE, FOND DU LAC",unknown_victims_age_18_24,0,county
+"DODGE, FOND DU LAC",unknown_victims_age_25_34,0,county
+"DODGE, FOND DU LAC",unknown_victims_age_35_44,0,county
+"DODGE, FOND DU LAC",unknown_victims_age_45_54,0,county
+"DODGE, FOND DU LAC",unknown_victims_age_55_64,0,county
+"DODGE, FOND DU LAC",unknown_victims_age_65+,0,county
+"DODGE, JEFFERSON",female_victims_age_Under 18,20,county
+"DODGE, JEFFERSON",female_victims_age_18_24,15,county
+"DODGE, JEFFERSON",female_victims_age_25_34,28,county
+"DODGE, JEFFERSON",female_victims_age_35_44,24,county
+"DODGE, JEFFERSON",female_victims_age_45_54,18,county
+"DODGE, JEFFERSON",female_victims_age_55_64,8,county
+"DODGE, JEFFERSON",female_victims_age_65+,5,county
+"DODGE, JEFFERSON",male_victims_age_Under 18,22,county
+"DODGE, JEFFERSON",male_victims_age_18_24,9,county
+"DODGE, JEFFERSON",male_victims_age_25_34,13,county
+"DODGE, JEFFERSON",male_victims_age_35_44,9,county
+"DODGE, JEFFERSON",male_victims_age_45_54,8,county
+"DODGE, JEFFERSON",male_victims_age_55_64,1,county
+"DODGE, JEFFERSON",male_victims_age_65+,6,county
+"DODGE, JEFFERSON",unknown_victims_age_Under 18,0,county
+"DODGE, JEFFERSON",unknown_victims_age_18_24,0,county
+"DODGE, JEFFERSON",unknown_victims_age_25_34,0,county
+"DODGE, JEFFERSON",unknown_victims_age_35_44,0,county
+"DODGE, JEFFERSON",unknown_victims_age_45_54,0,county
+"DODGE, JEFFERSON",unknown_victims_age_55_64,0,county
+"DODGE, JEFFERSON",unknown_victims_age_65+,0,county
+"DODGE, WASHINGTON",female_victims_age_Under 18,5,county
+"DODGE, WASHINGTON",female_victims_age_18_24,6,county
+"DODGE, WASHINGTON",female_victims_age_25_34,7,county
+"DODGE, WASHINGTON",female_victims_age_35_44,6,county
+"DODGE, WASHINGTON",female_victims_age_45_54,7,county
+"DODGE, WASHINGTON",female_victims_age_55_64,4,county
+"DODGE, WASHINGTON",female_victims_age_65+,1,county
+"DODGE, WASHINGTON",male_victims_age_Under 18,5,county
+"DODGE, WASHINGTON",male_victims_age_18_24,5,county
+"DODGE, WASHINGTON",male_victims_age_25_34,3,county
+"DODGE, WASHINGTON",male_victims_age_35_44,6,county
+"DODGE, WASHINGTON",male_victims_age_45_54,2,county
+"DODGE, WASHINGTON",male_victims_age_55_64,3,county
+"DODGE, WASHINGTON",male_victims_age_65+,1,county
+"DODGE, WASHINGTON",unknown_victims_age_Under 18,0,county
+"DODGE, WASHINGTON",unknown_victims_age_18_24,0,county
+"DODGE, WASHINGTON",unknown_victims_age_25_34,0,county
+"DODGE, WASHINGTON",unknown_victims_age_35_44,0,county
+"DODGE, WASHINGTON",unknown_victims_age_45_54,0,county
+"DODGE, WASHINGTON",unknown_victims_age_55_64,0,county
+"DODGE, WASHINGTON",unknown_victims_age_65+,0,county
+DOOR,female_victims_age_Under 18,19,county
+DOOR,female_victims_age_18_24,12,county
+DOOR,female_victims_age_25_34,13,county
+DOOR,female_victims_age_35_44,14,county
+DOOR,female_victims_age_45_54,7,county
+DOOR,female_victims_age_55_64,2,county
+DOOR,female_victims_age_65+,2,county
+DOOR,male_victims_age_Under 18,13,county
+DOOR,male_victims_age_18_24,5,county
+DOOR,male_victims_age_25_34,8,county
+DOOR,male_victims_age_35_44,13,county
+DOOR,male_victims_age_45_54,6,county
+DOOR,male_victims_age_55_64,3,county
+DOOR,male_victims_age_65+,4,county
+DOOR,unknown_victims_age_Under 18,0,county
+DOOR,unknown_victims_age_18_24,0,county
+DOOR,unknown_victims_age_25_34,0,county
+DOOR,unknown_victims_age_35_44,0,county
+DOOR,unknown_victims_age_45_54,0,county
+DOOR,unknown_victims_age_55_64,0,county
+DOOR,unknown_victims_age_65+,0,county
+DOUGLAS,female_victims_age_Under 18,7,county
+DOUGLAS,female_victims_age_18_24,29,county
+DOUGLAS,female_victims_age_25_34,36,county
+DOUGLAS,female_victims_age_35_44,54,county
+DOUGLAS,female_victims_age_45_54,21,county
+DOUGLAS,female_victims_age_55_64,10,county
+DOUGLAS,female_victims_age_65+,7,county
+DOUGLAS,male_victims_age_Under 18,19,county
+DOUGLAS,male_victims_age_18_24,14,county
+DOUGLAS,male_victims_age_25_34,24,county
+DOUGLAS,male_victims_age_35_44,28,county
+DOUGLAS,male_victims_age_45_54,15,county
+DOUGLAS,male_victims_age_55_64,15,county
+DOUGLAS,male_victims_age_65+,8,county
+DOUGLAS,unknown_victims_age_Under 18,0,county
+DOUGLAS,unknown_victims_age_18_24,0,county
+DOUGLAS,unknown_victims_age_25_34,0,county
+DOUGLAS,unknown_victims_age_35_44,0,county
+DOUGLAS,unknown_victims_age_45_54,0,county
+DOUGLAS,unknown_victims_age_55_64,0,county
+DOUGLAS,unknown_victims_age_65+,0,county
+DUNN,female_victims_age_Under 18,5,county
+DUNN,female_victims_age_18_24,11,county
+DUNN,female_victims_age_25_34,22,county
+DUNN,female_victims_age_35_44,22,county
+DUNN,female_victims_age_45_54,12,county
+DUNN,female_victims_age_55_64,7,county
+DUNN,female_victims_age_65+,4,county
+DUNN,male_victims_age_Under 18,7,county
+DUNN,male_victims_age_18_24,11,county
+DUNN,male_victims_age_25_34,15,county
+DUNN,male_victims_age_35_44,16,county
+DUNN,male_victims_age_45_54,8,county
+DUNN,male_victims_age_55_64,2,county
+DUNN,male_victims_age_65+,0,county
+DUNN,unknown_victims_age_Under 18,0,county
+DUNN,unknown_victims_age_18_24,0,county
+DUNN,unknown_victims_age_25_34,0,county
+DUNN,unknown_victims_age_35_44,0,county
+DUNN,unknown_victims_age_45_54,0,county
+DUNN,unknown_victims_age_55_64,0,county
+DUNN,unknown_victims_age_65+,0,county
+EAU CLAIRE,female_victims_age_Under 18,14,county
+EAU CLAIRE,female_victims_age_18_24,18,county
+EAU CLAIRE,female_victims_age_25_34,27,county
+EAU CLAIRE,female_victims_age_35_44,19,county
+EAU CLAIRE,female_victims_age_45_54,14,county
+EAU CLAIRE,female_victims_age_55_64,3,county
+EAU CLAIRE,female_victims_age_65+,4,county
+EAU CLAIRE,male_victims_age_Under 18,22,county
+EAU CLAIRE,male_victims_age_18_24,19,county
+EAU CLAIRE,male_victims_age_25_34,18,county
+EAU CLAIRE,male_victims_age_35_44,20,county
+EAU CLAIRE,male_victims_age_45_54,7,county
+EAU CLAIRE,male_victims_age_55_64,6,county
+EAU CLAIRE,male_victims_age_65+,5,county
+EAU CLAIRE,unknown_victims_age_Under 18,0,county
+EAU CLAIRE,unknown_victims_age_18_24,0,county
+EAU CLAIRE,unknown_victims_age_25_34,0,county
+EAU CLAIRE,unknown_victims_age_35_44,0,county
+EAU CLAIRE,unknown_victims_age_45_54,0,county
+EAU CLAIRE,unknown_victims_age_55_64,0,county
+EAU CLAIRE,unknown_victims_age_65+,0,county
+FLORENCE,female_victims_age_Under 18,0,county
+FLORENCE,female_victims_age_18_24,0,county
+FLORENCE,female_victims_age_25_34,3,county
+FLORENCE,female_victims_age_35_44,2,county
+FLORENCE,female_victims_age_45_54,0,county
+FLORENCE,female_victims_age_55_64,1,county
+FLORENCE,female_victims_age_65+,1,county
+FLORENCE,male_victims_age_Under 18,3,county
+FLORENCE,male_victims_age_18_24,2,county
+FLORENCE,male_victims_age_25_34,2,county
+FLORENCE,male_victims_age_35_44,4,county
+FLORENCE,male_victims_age_45_54,2,county
+FLORENCE,male_victims_age_55_64,2,county
+FLORENCE,male_victims_age_65+,0,county
+FLORENCE,unknown_victims_age_Under 18,0,county
+FLORENCE,unknown_victims_age_18_24,0,county
+FLORENCE,unknown_victims_age_25_34,0,county
+FLORENCE,unknown_victims_age_35_44,0,county
+FLORENCE,unknown_victims_age_45_54,0,county
+FLORENCE,unknown_victims_age_55_64,0,county
+FLORENCE,unknown_victims_age_65+,0,county
+FOND DU LAC,female_victims_age_Under 18,61,county
+FOND DU LAC,female_victims_age_18_24,52,county
+FOND DU LAC,female_victims_age_25_34,122,county
+FOND DU LAC,female_victims_age_35_44,63,county
+FOND DU LAC,female_victims_age_45_54,37,county
+FOND DU LAC,female_victims_age_55_64,15,county
+FOND DU LAC,female_victims_age_65+,12,county
+FOND DU LAC,male_victims_age_Under 18,40,county
+FOND DU LAC,male_victims_age_18_24,30,county
+FOND DU LAC,male_victims_age_25_34,54,county
+FOND DU LAC,male_victims_age_35_44,40,county
+FOND DU LAC,male_victims_age_45_54,15,county
+FOND DU LAC,male_victims_age_55_64,22,county
+FOND DU LAC,male_victims_age_65+,5,county
+FOND DU LAC,unknown_victims_age_Under 18,0,county
+FOND DU LAC,unknown_victims_age_18_24,0,county
+FOND DU LAC,unknown_victims_age_25_34,0,county
+FOND DU LAC,unknown_victims_age_35_44,0,county
+FOND DU LAC,unknown_victims_age_45_54,0,county
+FOND DU LAC,unknown_victims_age_55_64,0,county
+FOND DU LAC,unknown_victims_age_65+,0,county
+FOREST,female_victims_age_Under 18,2,county
+FOREST,female_victims_age_18_24,8,county
+FOREST,female_victims_age_25_34,8,county
+FOREST,female_victims_age_35_44,9,county
+FOREST,female_victims_age_45_54,3,county
+FOREST,female_victims_age_55_64,3,county
+FOREST,female_victims_age_65+,2,county
+FOREST,male_victims_age_Under 18,6,county
+FOREST,male_victims_age_18_24,10,county
+FOREST,male_victims_age_25_34,3,county
+FOREST,male_victims_age_35_44,5,county
+FOREST,male_victims_age_45_54,1,county
+FOREST,male_victims_age_55_64,5,county
+FOREST,male_victims_age_65+,1,county
+FOREST,unknown_victims_age_Under 18,0,county
+FOREST,unknown_victims_age_18_24,1,county
+FOREST,unknown_victims_age_25_34,0,county
+FOREST,unknown_victims_age_35_44,0,county
+FOREST,unknown_victims_age_45_54,0,county
+FOREST,unknown_victims_age_55_64,0,county
+FOREST,unknown_victims_age_65+,0,county
+GRANT,female_victims_age_Under 18,34,county
+GRANT,female_victims_age_18_24,35,county
+GRANT,female_victims_age_25_34,36,county
+GRANT,female_victims_age_35_44,33,county
+GRANT,female_victims_age_45_54,15,county
+GRANT,female_victims_age_55_64,11,county
+GRANT,female_victims_age_65+,5,county
+GRANT,male_victims_age_Under 18,36,county
+GRANT,male_victims_age_18_24,32,county
+GRANT,male_victims_age_25_34,14,county
+GRANT,male_victims_age_35_44,12,county
+GRANT,male_victims_age_45_54,8,county
+GRANT,male_victims_age_55_64,7,county
+GRANT,male_victims_age_65+,6,county
+GRANT,unknown_victims_age_Under 18,0,county
+GRANT,unknown_victims_age_18_24,0,county
+GRANT,unknown_victims_age_25_34,0,county
+GRANT,unknown_victims_age_35_44,0,county
+GRANT,unknown_victims_age_45_54,0,county
+GRANT,unknown_victims_age_55_64,1,county
+GRANT,unknown_victims_age_65+,0,county
+"GRANT, IOWA",female_victims_age_Under 18,1,county
+"GRANT, IOWA",female_victims_age_18_24,1,county
+"GRANT, IOWA",female_victims_age_25_34,0,county
+"GRANT, IOWA",female_victims_age_35_44,2,county
+"GRANT, IOWA",female_victims_age_45_54,1,county
+"GRANT, IOWA",female_victims_age_55_64,0,county
+"GRANT, IOWA",female_victims_age_65+,0,county
+"GRANT, IOWA",male_victims_age_Under 18,4,county
+"GRANT, IOWA",male_victims_age_18_24,0,county
+"GRANT, IOWA",male_victims_age_25_34,0,county
+"GRANT, IOWA",male_victims_age_35_44,0,county
+"GRANT, IOWA",male_victims_age_45_54,0,county
+"GRANT, IOWA",male_victims_age_55_64,0,county
+"GRANT, IOWA",male_victims_age_65+,0,county
+"GRANT, IOWA",unknown_victims_age_Under 18,0,county
+"GRANT, IOWA",unknown_victims_age_18_24,0,county
+"GRANT, IOWA",unknown_victims_age_25_34,0,county
+"GRANT, IOWA",unknown_victims_age_35_44,0,county
+"GRANT, IOWA",unknown_victims_age_45_54,0,county
+"GRANT, IOWA",unknown_victims_age_55_64,0,county
+"GRANT, IOWA",unknown_victims_age_65+,0,county
+"GRANT, LAFAYETTE",female_victims_age_Under 18,0,county
+"GRANT, LAFAYETTE",female_victims_age_18_24,0,county
+"GRANT, LAFAYETTE",female_victims_age_25_34,1,county
+"GRANT, LAFAYETTE",female_victims_age_35_44,0,county
+"GRANT, LAFAYETTE",female_victims_age_45_54,0,county
+"GRANT, LAFAYETTE",female_victims_age_55_64,1,county
+"GRANT, LAFAYETTE",female_victims_age_65+,0,county
+"GRANT, LAFAYETTE",male_victims_age_Under 18,2,county
+"GRANT, LAFAYETTE",male_victims_age_18_24,0,county
+"GRANT, LAFAYETTE",male_victims_age_25_34,1,county
+"GRANT, LAFAYETTE",male_victims_age_35_44,0,county
+"GRANT, LAFAYETTE",male_victims_age_45_54,1,county
+"GRANT, LAFAYETTE",male_victims_age_55_64,0,county
+"GRANT, LAFAYETTE",male_victims_age_65+,0,county
+"GRANT, LAFAYETTE",unknown_victims_age_Under 18,0,county
+"GRANT, LAFAYETTE",unknown_victims_age_18_24,0,county
+"GRANT, LAFAYETTE",unknown_victims_age_25_34,0,county
+"GRANT, LAFAYETTE",unknown_victims_age_35_44,0,county
+"GRANT, LAFAYETTE",unknown_victims_age_45_54,0,county
+"GRANT, LAFAYETTE",unknown_victims_age_55_64,0,county
+"GRANT, LAFAYETTE",unknown_victims_age_65+,0,county
+GREEN,female_victims_age_Under 18,26,county
+GREEN,female_victims_age_18_24,11,county
+GREEN,female_victims_age_25_34,24,county
+GREEN,female_victims_age_35_44,33,county
+GREEN,female_victims_age_45_54,13,county
+GREEN,female_victims_age_55_64,6,county
+GREEN,female_victims_age_65+,4,county
+GREEN,male_victims_age_Under 18,23,county
+GREEN,male_victims_age_18_24,6,county
+GREEN,male_victims_age_25_34,19,county
+GREEN,male_victims_age_35_44,20,county
+GREEN,male_victims_age_45_54,10,county
+GREEN,male_victims_age_55_64,6,county
+GREEN,male_victims_age_65+,4,county
+GREEN,unknown_victims_age_Under 18,0,county
+GREEN,unknown_victims_age_18_24,0,county
+GREEN,unknown_victims_age_25_34,0,county
+GREEN,unknown_victims_age_35_44,0,county
+GREEN,unknown_victims_age_45_54,0,county
+GREEN,unknown_victims_age_55_64,0,county
+GREEN,unknown_victims_age_65+,0,county
+GREEN LAKE,female_victims_age_Under 18,0,county
+GREEN LAKE,female_victims_age_18_24,2,county
+GREEN LAKE,female_victims_age_25_34,1,county
+GREEN LAKE,female_victims_age_35_44,2,county
+GREEN LAKE,female_victims_age_45_54,2,county
+GREEN LAKE,female_victims_age_55_64,2,county
+GREEN LAKE,female_victims_age_65+,0,county
+GREEN LAKE,male_victims_age_Under 18,0,county
+GREEN LAKE,male_victims_age_18_24,5,county
+GREEN LAKE,male_victims_age_25_34,4,county
+GREEN LAKE,male_victims_age_35_44,3,county
+GREEN LAKE,male_victims_age_45_54,1,county
+GREEN LAKE,male_victims_age_55_64,4,county
+GREEN LAKE,male_victims_age_65+,1,county
+GREEN LAKE,unknown_victims_age_Under 18,0,county
+GREEN LAKE,unknown_victims_age_18_24,0,county
+GREEN LAKE,unknown_victims_age_25_34,0,county
+GREEN LAKE,unknown_victims_age_35_44,0,county
+GREEN LAKE,unknown_victims_age_45_54,0,county
+GREEN LAKE,unknown_victims_age_55_64,0,county
+GREEN LAKE,unknown_victims_age_65+,0,county
+"GREEN LAKE, WAUSHARA",female_victims_age_Under 18,2,county
+"GREEN LAKE, WAUSHARA",female_victims_age_18_24,1,county
+"GREEN LAKE, WAUSHARA",female_victims_age_25_34,3,county
+"GREEN LAKE, WAUSHARA",female_victims_age_35_44,5,county
+"GREEN LAKE, WAUSHARA",female_victims_age_45_54,1,county
+"GREEN LAKE, WAUSHARA",female_victims_age_55_64,0,county
+"GREEN LAKE, WAUSHARA",female_victims_age_65+,0,county
+"GREEN LAKE, WAUSHARA",male_victims_age_Under 18,2,county
+"GREEN LAKE, WAUSHARA",male_victims_age_18_24,1,county
+"GREEN LAKE, WAUSHARA",male_victims_age_25_34,2,county
+"GREEN LAKE, WAUSHARA",male_victims_age_35_44,0,county
+"GREEN LAKE, WAUSHARA",male_victims_age_45_54,1,county
+"GREEN LAKE, WAUSHARA",male_victims_age_55_64,1,county
+"GREEN LAKE, WAUSHARA",male_victims_age_65+,0,county
+"GREEN LAKE, WAUSHARA",unknown_victims_age_Under 18,0,county
+"GREEN LAKE, WAUSHARA",unknown_victims_age_18_24,0,county
+"GREEN LAKE, WAUSHARA",unknown_victims_age_25_34,0,county
+"GREEN LAKE, WAUSHARA",unknown_victims_age_35_44,0,county
+"GREEN LAKE, WAUSHARA",unknown_victims_age_45_54,0,county
+"GREEN LAKE, WAUSHARA",unknown_victims_age_55_64,0,county
+"GREEN LAKE, WAUSHARA",unknown_victims_age_65+,0,county
+"GREEN, ROCK",female_victims_age_Under 18,0,county
+"GREEN, ROCK",female_victims_age_18_24,1,county
+"GREEN, ROCK",female_victims_age_25_34,2,county
+"GREEN, ROCK",female_victims_age_35_44,3,county
+"GREEN, ROCK",female_victims_age_45_54,2,county
+"GREEN, ROCK",female_victims_age_55_64,0,county
+"GREEN, ROCK",female_victims_age_65+,0,county
+"GREEN, ROCK",male_victims_age_Under 18,1,county
+"GREEN, ROCK",male_victims_age_18_24,1,county
+"GREEN, ROCK",male_victims_age_25_34,1,county
+"GREEN, ROCK",male_victims_age_35_44,2,county
+"GREEN, ROCK",male_victims_age_45_54,0,county
+"GREEN, ROCK",male_victims_age_55_64,0,county
+"GREEN, ROCK",male_victims_age_65+,0,county
+"GREEN, ROCK",unknown_victims_age_Under 18,0,county
+"GREEN, ROCK",unknown_victims_age_18_24,0,county
+"GREEN, ROCK",unknown_victims_age_25_34,0,county
+"GREEN, ROCK",unknown_victims_age_35_44,0,county
+"GREEN, ROCK",unknown_victims_age_45_54,0,county
+"GREEN, ROCK",unknown_victims_age_55_64,0,county
+"GREEN, ROCK",unknown_victims_age_65+,0,county
+IOWA,female_victims_age_Under 18,8,county
+IOWA,female_victims_age_18_24,1,county
+IOWA,female_victims_age_25_34,14,county
+IOWA,female_victims_age_35_44,12,county
+IOWA,female_victims_age_45_54,6,county
+IOWA,female_victims_age_55_64,2,county
+IOWA,female_victims_age_65+,0,county
+IOWA,male_victims_age_Under 18,4,county
+IOWA,male_victims_age_18_24,4,county
+IOWA,male_victims_age_25_34,2,county
+IOWA,male_victims_age_35_44,7,county
+IOWA,male_victims_age_45_54,1,county
+IOWA,male_victims_age_55_64,2,county
+IOWA,male_victims_age_65+,0,county
+IOWA,unknown_victims_age_Under 18,0,county
+IOWA,unknown_victims_age_18_24,0,county
+IOWA,unknown_victims_age_25_34,0,county
+IOWA,unknown_victims_age_35_44,0,county
+IOWA,unknown_victims_age_45_54,0,county
+IOWA,unknown_victims_age_55_64,0,county
+IOWA,unknown_victims_age_65+,0,county
+IRON,female_victims_age_Under 18,0,county
+IRON,female_victims_age_18_24,1,county
+IRON,female_victims_age_25_34,8,county
+IRON,female_victims_age_35_44,4,county
+IRON,female_victims_age_45_54,0,county
+IRON,female_victims_age_55_64,0,county
+IRON,female_victims_age_65+,0,county
+IRON,male_victims_age_Under 18,1,county
+IRON,male_victims_age_18_24,2,county
+IRON,male_victims_age_25_34,5,county
+IRON,male_victims_age_35_44,6,county
+IRON,male_victims_age_45_54,3,county
+IRON,male_victims_age_55_64,5,county
+IRON,male_victims_age_65+,0,county
+IRON,unknown_victims_age_Under 18,0,county
+IRON,unknown_victims_age_18_24,0,county
+IRON,unknown_victims_age_25_34,0,county
+IRON,unknown_victims_age_35_44,0,county
+IRON,unknown_victims_age_45_54,0,county
+IRON,unknown_victims_age_55_64,0,county
+IRON,unknown_victims_age_65+,0,county
+JACKSON,female_victims_age_Under 18,6,county
+JACKSON,female_victims_age_18_24,10,county
+JACKSON,female_victims_age_25_34,8,county
+JACKSON,female_victims_age_35_44,24,county
+JACKSON,female_victims_age_45_54,8,county
+JACKSON,female_victims_age_55_64,6,county
+JACKSON,female_victims_age_65+,5,county
+JACKSON,male_victims_age_Under 18,14,county
+JACKSON,male_victims_age_18_24,7,county
+JACKSON,male_victims_age_25_34,17,county
+JACKSON,male_victims_age_35_44,14,county
+JACKSON,male_victims_age_45_54,6,county
+JACKSON,male_victims_age_55_64,5,county
+JACKSON,male_victims_age_65+,2,county
+JACKSON,unknown_victims_age_Under 18,0,county
+JACKSON,unknown_victims_age_18_24,0,county
+JACKSON,unknown_victims_age_25_34,0,county
+JACKSON,unknown_victims_age_35_44,0,county
+JACKSON,unknown_victims_age_45_54,0,county
+JACKSON,unknown_victims_age_55_64,0,county
+JACKSON,unknown_victims_age_65+,0,county
+JEFFERSON,female_victims_age_Under 18,27,county
+JEFFERSON,female_victims_age_18_24,14,county
+JEFFERSON,female_victims_age_25_34,40,county
+JEFFERSON,female_victims_age_35_44,35,county
+JEFFERSON,female_victims_age_45_54,18,county
+JEFFERSON,female_victims_age_55_64,13,county
+JEFFERSON,female_victims_age_65+,3,county
+JEFFERSON,male_victims_age_Under 18,29,county
+JEFFERSON,male_victims_age_18_24,11,county
+JEFFERSON,male_victims_age_25_34,21,county
+JEFFERSON,male_victims_age_35_44,23,county
+JEFFERSON,male_victims_age_45_54,11,county
+JEFFERSON,male_victims_age_55_64,10,county
+JEFFERSON,male_victims_age_65+,4,county
+JEFFERSON,unknown_victims_age_Under 18,0,county
+JEFFERSON,unknown_victims_age_18_24,0,county
+JEFFERSON,unknown_victims_age_25_34,0,county
+JEFFERSON,unknown_victims_age_35_44,0,county
+JEFFERSON,unknown_victims_age_45_54,0,county
+JEFFERSON,unknown_victims_age_55_64,0,county
+JEFFERSON,unknown_victims_age_65+,0,county
+"JEFFERSON, WALWORTH",female_victims_age_Under 18,4,county
+"JEFFERSON, WALWORTH",female_victims_age_18_24,10,county
+"JEFFERSON, WALWORTH",female_victims_age_25_34,13,county
+"JEFFERSON, WALWORTH",female_victims_age_35_44,4,county
+"JEFFERSON, WALWORTH",female_victims_age_45_54,0,county
+"JEFFERSON, WALWORTH",female_victims_age_55_64,1,county
+"JEFFERSON, WALWORTH",female_victims_age_65+,0,county
+"JEFFERSON, WALWORTH",male_victims_age_Under 18,2,county
+"JEFFERSON, WALWORTH",male_victims_age_18_24,7,county
+"JEFFERSON, WALWORTH",male_victims_age_25_34,11,county
+"JEFFERSON, WALWORTH",male_victims_age_35_44,8,county
+"JEFFERSON, WALWORTH",male_victims_age_45_54,3,county
+"JEFFERSON, WALWORTH",male_victims_age_55_64,2,county
+"JEFFERSON, WALWORTH",male_victims_age_65+,0,county
+"JEFFERSON, WALWORTH",unknown_victims_age_Under 18,0,county
+"JEFFERSON, WALWORTH",unknown_victims_age_18_24,0,county
+"JEFFERSON, WALWORTH",unknown_victims_age_25_34,0,county
+"JEFFERSON, WALWORTH",unknown_victims_age_35_44,0,county
+"JEFFERSON, WALWORTH",unknown_victims_age_45_54,0,county
+"JEFFERSON, WALWORTH",unknown_victims_age_55_64,0,county
+"JEFFERSON, WALWORTH",unknown_victims_age_65+,0,county
+JUNEAU,female_victims_age_Under 18,8,county
+JUNEAU,female_victims_age_18_24,11,county
+JUNEAU,female_victims_age_25_34,25,county
+JUNEAU,female_victims_age_35_44,19,county
+JUNEAU,female_victims_age_45_54,15,county
+JUNEAU,female_victims_age_55_64,7,county
+JUNEAU,female_victims_age_65+,3,county
+JUNEAU,male_victims_age_Under 18,9,county
+JUNEAU,male_victims_age_18_24,5,county
+JUNEAU,male_victims_age_25_34,17,county
+JUNEAU,male_victims_age_35_44,18,county
+JUNEAU,male_victims_age_45_54,11,county
+JUNEAU,male_victims_age_55_64,7,county
+JUNEAU,male_victims_age_65+,5,county
+JUNEAU,unknown_victims_age_Under 18,0,county
+JUNEAU,unknown_victims_age_18_24,0,county
+JUNEAU,unknown_victims_age_25_34,0,county
+JUNEAU,unknown_victims_age_35_44,0,county
+JUNEAU,unknown_victims_age_45_54,0,county
+JUNEAU,unknown_victims_age_55_64,0,county
+JUNEAU,unknown_victims_age_65+,0,county
+KENOSHA,female_victims_age_Under 18,90,county
+KENOSHA,female_victims_age_18_24,133,county
+KENOSHA,female_victims_age_25_34,214,county
+KENOSHA,female_victims_age_35_44,156,county
+KENOSHA,female_victims_age_45_54,79,county
+KENOSHA,female_victims_age_55_64,50,county
+KENOSHA,female_victims_age_65+,21,county
+KENOSHA,male_victims_age_Under 18,62,county
+KENOSHA,male_victims_age_18_24,68,county
+KENOSHA,male_victims_age_25_34,108,county
+KENOSHA,male_victims_age_35_44,94,county
+KENOSHA,male_victims_age_45_54,75,county
+KENOSHA,male_victims_age_55_64,34,county
+KENOSHA,male_victims_age_65+,19,county
+KENOSHA,unknown_victims_age_Under 18,0,county
+KENOSHA,unknown_victims_age_18_24,0,county
+KENOSHA,unknown_victims_age_25_34,0,county
+KENOSHA,unknown_victims_age_35_44,0,county
+KENOSHA,unknown_victims_age_45_54,0,county
+KENOSHA,unknown_victims_age_55_64,0,county
+KENOSHA,unknown_victims_age_65+,0,county
+"KENOSHA, WALWORTH",female_victims_age_Under 18,1,county
+"KENOSHA, WALWORTH",female_victims_age_18_24,0,county
+"KENOSHA, WALWORTH",female_victims_age_25_34,0,county
+"KENOSHA, WALWORTH",female_victims_age_35_44,0,county
+"KENOSHA, WALWORTH",female_victims_age_45_54,0,county
+"KENOSHA, WALWORTH",female_victims_age_55_64,0,county
+"KENOSHA, WALWORTH",female_victims_age_65+,1,county
+"KENOSHA, WALWORTH",male_victims_age_Under 18,1,county
+"KENOSHA, WALWORTH",male_victims_age_18_24,0,county
+"KENOSHA, WALWORTH",male_victims_age_25_34,2,county
+"KENOSHA, WALWORTH",male_victims_age_35_44,0,county
+"KENOSHA, WALWORTH",male_victims_age_45_54,1,county
+"KENOSHA, WALWORTH",male_victims_age_55_64,0,county
+"KENOSHA, WALWORTH",male_victims_age_65+,0,county
+"KENOSHA, WALWORTH",unknown_victims_age_Under 18,0,county
+"KENOSHA, WALWORTH",unknown_victims_age_18_24,0,county
+"KENOSHA, WALWORTH",unknown_victims_age_25_34,0,county
+"KENOSHA, WALWORTH",unknown_victims_age_35_44,0,county
+"KENOSHA, WALWORTH",unknown_victims_age_45_54,0,county
+"KENOSHA, WALWORTH",unknown_victims_age_55_64,0,county
+"KENOSHA, WALWORTH",unknown_victims_age_65+,0,county
+KEWAUNEE,female_victims_age_Under 18,19,county
+KEWAUNEE,female_victims_age_18_24,1,county
+KEWAUNEE,female_victims_age_25_34,10,county
+KEWAUNEE,female_victims_age_35_44,13,county
+KEWAUNEE,female_victims_age_45_54,3,county
+KEWAUNEE,female_victims_age_55_64,4,county
+KEWAUNEE,female_victims_age_65+,0,county
+KEWAUNEE,male_victims_age_Under 18,18,county
+KEWAUNEE,male_victims_age_18_24,5,county
+KEWAUNEE,male_victims_age_25_34,9,county
+KEWAUNEE,male_victims_age_35_44,5,county
+KEWAUNEE,male_victims_age_45_54,2,county
+KEWAUNEE,male_victims_age_55_64,0,county
+KEWAUNEE,male_victims_age_65+,1,county
+KEWAUNEE,unknown_victims_age_Under 18,0,county
+KEWAUNEE,unknown_victims_age_18_24,0,county
+KEWAUNEE,unknown_victims_age_25_34,0,county
+KEWAUNEE,unknown_victims_age_35_44,0,county
+KEWAUNEE,unknown_victims_age_45_54,0,county
+KEWAUNEE,unknown_victims_age_55_64,0,county
+KEWAUNEE,unknown_victims_age_65+,0,county
+LA CROSSE,female_victims_age_Under 18,45,county
+LA CROSSE,female_victims_age_18_24,96,county
+LA CROSSE,female_victims_age_25_34,114,county
+LA CROSSE,female_victims_age_35_44,141,county
+LA CROSSE,female_victims_age_45_54,42,county
+LA CROSSE,female_victims_age_55_64,31,county
+LA CROSSE,female_victims_age_65+,15,county
+LA CROSSE,male_victims_age_Under 18,47,county
+LA CROSSE,male_victims_age_18_24,62,county
+LA CROSSE,male_victims_age_25_34,73,county
+LA CROSSE,male_victims_age_35_44,67,county
+LA CROSSE,male_victims_age_45_54,35,county
+LA CROSSE,male_victims_age_55_64,21,county
+LA CROSSE,male_victims_age_65+,13,county
+LA CROSSE,unknown_victims_age_Under 18,0,county
+LA CROSSE,unknown_victims_age_18_24,0,county
+LA CROSSE,unknown_victims_age_25_34,0,county
+LA CROSSE,unknown_victims_age_35_44,1,county
+LA CROSSE,unknown_victims_age_45_54,0,county
+LA CROSSE,unknown_victims_age_55_64,0,county
+LA CROSSE,unknown_victims_age_65+,0,county
+LAFAYETTE,female_victims_age_Under 18,6,county
+LAFAYETTE,female_victims_age_18_24,7,county
+LAFAYETTE,female_victims_age_25_34,15,county
+LAFAYETTE,female_victims_age_35_44,10,county
+LAFAYETTE,female_victims_age_45_54,4,county
+LAFAYETTE,female_victims_age_55_64,4,county
+LAFAYETTE,female_victims_age_65+,0,county
+LAFAYETTE,male_victims_age_Under 18,6,county
+LAFAYETTE,male_victims_age_18_24,5,county
+LAFAYETTE,male_victims_age_25_34,5,county
+LAFAYETTE,male_victims_age_35_44,10,county
+LAFAYETTE,male_victims_age_45_54,5,county
+LAFAYETTE,male_victims_age_55_64,1,county
+LAFAYETTE,male_victims_age_65+,2,county
+LAFAYETTE,unknown_victims_age_Under 18,0,county
+LAFAYETTE,unknown_victims_age_18_24,0,county
+LAFAYETTE,unknown_victims_age_25_34,0,county
+LAFAYETTE,unknown_victims_age_35_44,0,county
+LAFAYETTE,unknown_victims_age_45_54,0,county
+LAFAYETTE,unknown_victims_age_55_64,0,county
+LAFAYETTE,unknown_victims_age_65+,0,county
+LANGLADE,female_victims_age_Under 18,8,county
+LANGLADE,female_victims_age_18_24,2,county
+LANGLADE,female_victims_age_25_34,6,county
+LANGLADE,female_victims_age_35_44,12,county
+LANGLADE,female_victims_age_45_54,4,county
+LANGLADE,female_victims_age_55_64,4,county
+LANGLADE,female_victims_age_65+,1,county
+LANGLADE,male_victims_age_Under 18,2,county
+LANGLADE,male_victims_age_18_24,2,county
+LANGLADE,male_victims_age_25_34,3,county
+LANGLADE,male_victims_age_35_44,2,county
+LANGLADE,male_victims_age_45_54,5,county
+LANGLADE,male_victims_age_55_64,3,county
+LANGLADE,male_victims_age_65+,0,county
+LANGLADE,unknown_victims_age_Under 18,0,county
+LANGLADE,unknown_victims_age_18_24,0,county
+LANGLADE,unknown_victims_age_25_34,0,county
+LANGLADE,unknown_victims_age_35_44,0,county
+LANGLADE,unknown_victims_age_45_54,0,county
+LANGLADE,unknown_victims_age_55_64,0,county
+LANGLADE,unknown_victims_age_65+,0,county
+LINCOLN,female_victims_age_Under 18,26,county
+LINCOLN,female_victims_age_18_24,5,county
+LINCOLN,female_victims_age_25_34,28,county
+LINCOLN,female_victims_age_35_44,13,county
+LINCOLN,female_victims_age_45_54,17,county
+LINCOLN,female_victims_age_55_64,3,county
+LINCOLN,female_victims_age_65+,7,county
+LINCOLN,male_victims_age_Under 18,29,county
+LINCOLN,male_victims_age_18_24,24,county
+LINCOLN,male_victims_age_25_34,28,county
+LINCOLN,male_victims_age_35_44,24,county
+LINCOLN,male_victims_age_45_54,11,county
+LINCOLN,male_victims_age_55_64,4,county
+LINCOLN,male_victims_age_65+,9,county
+LINCOLN,unknown_victims_age_Under 18,0,county
+LINCOLN,unknown_victims_age_18_24,0,county
+LINCOLN,unknown_victims_age_25_34,1,county
+LINCOLN,unknown_victims_age_35_44,0,county
+LINCOLN,unknown_victims_age_45_54,1,county
+LINCOLN,unknown_victims_age_55_64,1,county
+LINCOLN,unknown_victims_age_65+,0,county
+MANITOWOC,female_victims_age_Under 18,19,county
+MANITOWOC,female_victims_age_18_24,35,county
+MANITOWOC,female_victims_age_25_34,53,county
+MANITOWOC,female_victims_age_35_44,54,county
+MANITOWOC,female_victims_age_45_54,27,county
+MANITOWOC,female_victims_age_55_64,11,county
+MANITOWOC,female_victims_age_65+,12,county
+MANITOWOC,male_victims_age_Under 18,50,county
+MANITOWOC,male_victims_age_18_24,33,county
+MANITOWOC,male_victims_age_25_34,37,county
+MANITOWOC,male_victims_age_35_44,13,county
+MANITOWOC,male_victims_age_45_54,15,county
+MANITOWOC,male_victims_age_55_64,9,county
+MANITOWOC,male_victims_age_65+,5,county
+MANITOWOC,unknown_victims_age_Under 18,0,county
+MANITOWOC,unknown_victims_age_18_24,0,county
+MANITOWOC,unknown_victims_age_25_34,0,county
+MANITOWOC,unknown_victims_age_35_44,0,county
+MANITOWOC,unknown_victims_age_45_54,0,county
+MANITOWOC,unknown_victims_age_55_64,0,county
+MANITOWOC,unknown_victims_age_65+,1,county
+MARATHON,female_victims_age_Under 18,45,county
+MARATHON,female_victims_age_18_24,56,county
+MARATHON,female_victims_age_25_34,64,county
+MARATHON,female_victims_age_35_44,73,county
+MARATHON,female_victims_age_45_54,48,county
+MARATHON,female_victims_age_55_64,17,county
+MARATHON,female_victims_age_65+,6,county
+MARATHON,male_victims_age_Under 18,41,county
+MARATHON,male_victims_age_18_24,28,county
+MARATHON,male_victims_age_25_34,52,county
+MARATHON,male_victims_age_35_44,40,county
+MARATHON,male_victims_age_45_54,27,county
+MARATHON,male_victims_age_55_64,16,county
+MARATHON,male_victims_age_65+,8,county
+MARATHON,unknown_victims_age_Under 18,0,county
+MARATHON,unknown_victims_age_18_24,0,county
+MARATHON,unknown_victims_age_25_34,0,county
+MARATHON,unknown_victims_age_35_44,0,county
+MARATHON,unknown_victims_age_45_54,0,county
+MARATHON,unknown_victims_age_55_64,0,county
+MARATHON,unknown_victims_age_65+,0,county
+"MARATHON, WOOD",female_victims_age_Under 18,30,county
+"MARATHON, WOOD",female_victims_age_18_24,11,county
+"MARATHON, WOOD",female_victims_age_25_34,16,county
+"MARATHON, WOOD",female_victims_age_35_44,28,county
+"MARATHON, WOOD",female_victims_age_45_54,16,county
+"MARATHON, WOOD",female_victims_age_55_64,7,county
+"MARATHON, WOOD",female_victims_age_65+,5,county
+"MARATHON, WOOD",male_victims_age_Under 18,20,county
+"MARATHON, WOOD",male_victims_age_18_24,9,county
+"MARATHON, WOOD",male_victims_age_25_34,11,county
+"MARATHON, WOOD",male_victims_age_35_44,10,county
+"MARATHON, WOOD",male_victims_age_45_54,8,county
+"MARATHON, WOOD",male_victims_age_55_64,0,county
+"MARATHON, WOOD",male_victims_age_65+,0,county
+"MARATHON, WOOD",unknown_victims_age_Under 18,0,county
+"MARATHON, WOOD",unknown_victims_age_18_24,0,county
+"MARATHON, WOOD",unknown_victims_age_25_34,0,county
+"MARATHON, WOOD",unknown_victims_age_35_44,0,county
+"MARATHON, WOOD",unknown_victims_age_45_54,0,county
+"MARATHON, WOOD",unknown_victims_age_55_64,0,county
+"MARATHON, WOOD",unknown_victims_age_65+,0,county
+MARINETTE,female_victims_age_Under 18,13,county
+MARINETTE,female_victims_age_18_24,20,county
+MARINETTE,female_victims_age_25_34,30,county
+MARINETTE,female_victims_age_35_44,22,county
+MARINETTE,female_victims_age_45_54,14,county
+MARINETTE,female_victims_age_55_64,7,county
+MARINETTE,female_victims_age_65+,5,county
+MARINETTE,male_victims_age_Under 18,11,county
+MARINETTE,male_victims_age_18_24,11,county
+MARINETTE,male_victims_age_25_34,19,county
+MARINETTE,male_victims_age_35_44,17,county
+MARINETTE,male_victims_age_45_54,8,county
+MARINETTE,male_victims_age_55_64,7,county
+MARINETTE,male_victims_age_65+,5,county
+MARINETTE,unknown_victims_age_Under 18,0,county
+MARINETTE,unknown_victims_age_18_24,0,county
+MARINETTE,unknown_victims_age_25_34,0,county
+MARINETTE,unknown_victims_age_35_44,0,county
+MARINETTE,unknown_victims_age_45_54,0,county
+MARINETTE,unknown_victims_age_55_64,0,county
+MARINETTE,unknown_victims_age_65+,0,county
+MARQUETTE,female_victims_age_Under 18,1,county
+MARQUETTE,female_victims_age_18_24,4,county
+MARQUETTE,female_victims_age_25_34,1,county
+MARQUETTE,female_victims_age_35_44,6,county
+MARQUETTE,female_victims_age_45_54,1,county
+MARQUETTE,female_victims_age_55_64,5,county
+MARQUETTE,female_victims_age_65+,3,county
+MARQUETTE,male_victims_age_Under 18,4,county
+MARQUETTE,male_victims_age_18_24,1,county
+MARQUETTE,male_victims_age_25_34,1,county
+MARQUETTE,male_victims_age_35_44,2,county
+MARQUETTE,male_victims_age_45_54,1,county
+MARQUETTE,male_victims_age_55_64,2,county
+MARQUETTE,male_victims_age_65+,0,county
+MARQUETTE,unknown_victims_age_Under 18,0,county
+MARQUETTE,unknown_victims_age_18_24,0,county
+MARQUETTE,unknown_victims_age_25_34,0,county
+MARQUETTE,unknown_victims_age_35_44,0,county
+MARQUETTE,unknown_victims_age_45_54,0,county
+MARQUETTE,unknown_victims_age_55_64,0,county
+MARQUETTE,unknown_victims_age_65+,0,county
+MENOMINEE,female_victims_age_Under 18,0,county
+MENOMINEE,female_victims_age_18_24,1,county
+MENOMINEE,female_victims_age_25_34,2,county
+MENOMINEE,female_victims_age_35_44,1,county
+MENOMINEE,female_victims_age_45_54,1,county
+MENOMINEE,female_victims_age_55_64,0,county
+MENOMINEE,female_victims_age_65+,0,county
+MENOMINEE,male_victims_age_Under 18,2,county
+MENOMINEE,male_victims_age_18_24,0,county
+MENOMINEE,male_victims_age_25_34,0,county
+MENOMINEE,male_victims_age_35_44,0,county
+MENOMINEE,male_victims_age_45_54,0,county
+MENOMINEE,male_victims_age_55_64,0,county
+MENOMINEE,male_victims_age_65+,0,county
+MENOMINEE,unknown_victims_age_Under 18,0,county
+MENOMINEE,unknown_victims_age_18_24,0,county
+MENOMINEE,unknown_victims_age_25_34,0,county
+MENOMINEE,unknown_victims_age_35_44,0,county
+MENOMINEE,unknown_victims_age_45_54,0,county
+MENOMINEE,unknown_victims_age_55_64,0,county
+MENOMINEE,unknown_victims_age_65+,0,county
+MILWAUKEE,female_victims_age_Under 18,845,county
+MILWAUKEE,female_victims_age_18_24,2369,county
+MILWAUKEE,female_victims_age_25_34,3392,county
+MILWAUKEE,female_victims_age_35_44,2347,county
+MILWAUKEE,female_victims_age_45_54,1187,county
+MILWAUKEE,female_victims_age_55_64,687,county
+MILWAUKEE,female_victims_age_65+,300,county
+MILWAUKEE,male_victims_age_Under 18,850,county
+MILWAUKEE,male_victims_age_18_24,815,county
+MILWAUKEE,male_victims_age_25_34,1340,county
+MILWAUKEE,male_victims_age_35_44,1000,county
+MILWAUKEE,male_victims_age_45_54,710,county
+MILWAUKEE,male_victims_age_55_64,551,county
+MILWAUKEE,male_victims_age_65+,317,county
+MILWAUKEE,unknown_victims_age_Under 18,0,county
+MILWAUKEE,unknown_victims_age_18_24,0,county
+MILWAUKEE,unknown_victims_age_25_34,0,county
+MILWAUKEE,unknown_victims_age_35_44,0,county
+MILWAUKEE,unknown_victims_age_45_54,1,county
+MILWAUKEE,unknown_victims_age_55_64,0,county
+MILWAUKEE,unknown_victims_age_65+,0,county
+"MILWAUKEE, OZAUKEE",female_victims_age_Under 18,0,county
+"MILWAUKEE, OZAUKEE",female_victims_age_18_24,0,county
+"MILWAUKEE, OZAUKEE",female_victims_age_25_34,0,county
+"MILWAUKEE, OZAUKEE",female_victims_age_35_44,1,county
+"MILWAUKEE, OZAUKEE",female_victims_age_45_54,0,county
+"MILWAUKEE, OZAUKEE",female_victims_age_55_64,0,county
+"MILWAUKEE, OZAUKEE",female_victims_age_65+,0,county
+"MILWAUKEE, OZAUKEE",male_victims_age_Under 18,0,county
+"MILWAUKEE, OZAUKEE",male_victims_age_18_24,0,county
+"MILWAUKEE, OZAUKEE",male_victims_age_25_34,0,county
+"MILWAUKEE, OZAUKEE",male_victims_age_35_44,0,county
+"MILWAUKEE, OZAUKEE",male_victims_age_45_54,0,county
+"MILWAUKEE, OZAUKEE",male_victims_age_55_64,1,county
+"MILWAUKEE, OZAUKEE",male_victims_age_65+,0,county
+"MILWAUKEE, OZAUKEE",unknown_victims_age_Under 18,0,county
+"MILWAUKEE, OZAUKEE",unknown_victims_age_18_24,0,county
+"MILWAUKEE, OZAUKEE",unknown_victims_age_25_34,0,county
+"MILWAUKEE, OZAUKEE",unknown_victims_age_35_44,0,county
+"MILWAUKEE, OZAUKEE",unknown_victims_age_45_54,0,county
+"MILWAUKEE, OZAUKEE",unknown_victims_age_55_64,0,county
+"MILWAUKEE, OZAUKEE",unknown_victims_age_65+,0,county
+MONROE,female_victims_age_Under 18,33,county
+MONROE,female_victims_age_18_24,21,county
+MONROE,female_victims_age_25_34,46,county
+MONROE,female_victims_age_35_44,29,county
+MONROE,female_victims_age_45_54,17,county
+MONROE,female_victims_age_55_64,10,county
+MONROE,female_victims_age_65+,4,county
+MONROE,male_victims_age_Under 18,39,county
+MONROE,male_victims_age_18_24,15,county
+MONROE,male_victims_age_25_34,24,county
+MONROE,male_victims_age_35_44,22,county
+MONROE,male_victims_age_45_54,13,county
+MONROE,male_victims_age_55_64,7,county
+MONROE,male_victims_age_65+,6,county
+MONROE,unknown_victims_age_Under 18,0,county
+MONROE,unknown_victims_age_18_24,0,county
+MONROE,unknown_victims_age_25_34,0,county
+MONROE,unknown_victims_age_35_44,1,county
+MONROE,unknown_victims_age_45_54,1,county
+MONROE,unknown_victims_age_55_64,0,county
+MONROE,unknown_victims_age_65+,1,county
+NOT SPECIFIED,female_victims_age_Under 18,28,county
+NOT SPECIFIED,female_victims_age_18_24,20,county
+NOT SPECIFIED,female_victims_age_25_34,34,county
+NOT SPECIFIED,female_victims_age_35_44,43,county
+NOT SPECIFIED,female_victims_age_45_54,9,county
+NOT SPECIFIED,female_victims_age_55_64,11,county
+NOT SPECIFIED,female_victims_age_65+,3,county
+NOT SPECIFIED,male_victims_age_Under 18,23,county
+NOT SPECIFIED,male_victims_age_18_24,7,county
+NOT SPECIFIED,male_victims_age_25_34,15,county
+NOT SPECIFIED,male_victims_age_35_44,22,county
+NOT SPECIFIED,male_victims_age_45_54,11,county
+NOT SPECIFIED,male_victims_age_55_64,6,county
+NOT SPECIFIED,male_victims_age_65+,2,county
+NOT SPECIFIED,unknown_victims_age_Under 18,2,county
+NOT SPECIFIED,unknown_victims_age_18_24,0,county
+NOT SPECIFIED,unknown_victims_age_25_34,0,county
+NOT SPECIFIED,unknown_victims_age_35_44,0,county
+NOT SPECIFIED,unknown_victims_age_45_54,0,county
+NOT SPECIFIED,unknown_victims_age_55_64,0,county
+NOT SPECIFIED,unknown_victims_age_65+,0,county
+OCONTO,female_victims_age_Under 18,16,county
+OCONTO,female_victims_age_18_24,12,county
+OCONTO,female_victims_age_25_34,21,county
+OCONTO,female_victims_age_35_44,24,county
+OCONTO,female_victims_age_45_54,16,county
+OCONTO,female_victims_age_55_64,10,county
+OCONTO,female_victims_age_65+,4,county
+OCONTO,male_victims_age_Under 18,20,county
+OCONTO,male_victims_age_18_24,8,county
+OCONTO,male_victims_age_25_34,17,county
+OCONTO,male_victims_age_35_44,12,county
+OCONTO,male_victims_age_45_54,13,county
+OCONTO,male_victims_age_55_64,9,county
+OCONTO,male_victims_age_65+,2,county
+OCONTO,unknown_victims_age_Under 18,0,county
+OCONTO,unknown_victims_age_18_24,0,county
+OCONTO,unknown_victims_age_25_34,0,county
+OCONTO,unknown_victims_age_35_44,0,county
+OCONTO,unknown_victims_age_45_54,0,county
+OCONTO,unknown_victims_age_55_64,0,county
+OCONTO,unknown_victims_age_65+,0,county
+ONEIDA,female_victims_age_Under 18,14,county
+ONEIDA,female_victims_age_18_24,7,county
+ONEIDA,female_victims_age_25_34,19,county
+ONEIDA,female_victims_age_35_44,18,county
+ONEIDA,female_victims_age_45_54,12,county
+ONEIDA,female_victims_age_55_64,7,county
+ONEIDA,female_victims_age_65+,3,county
+ONEIDA,male_victims_age_Under 18,31,county
+ONEIDA,male_victims_age_18_24,5,county
+ONEIDA,male_victims_age_25_34,12,county
+ONEIDA,male_victims_age_35_44,13,county
+ONEIDA,male_victims_age_45_54,11,county
+ONEIDA,male_victims_age_55_64,9,county
+ONEIDA,male_victims_age_65+,2,county
+ONEIDA,unknown_victims_age_Under 18,0,county
+ONEIDA,unknown_victims_age_18_24,0,county
+ONEIDA,unknown_victims_age_25_34,0,county
+ONEIDA,unknown_victims_age_35_44,0,county
+ONEIDA,unknown_victims_age_45_54,0,county
+ONEIDA,unknown_victims_age_55_64,0,county
+ONEIDA,unknown_victims_age_65+,0,county
+OUTAGAMIE,female_victims_age_Under 18,28,county
+OUTAGAMIE,female_victims_age_18_24,40,county
+OUTAGAMIE,female_victims_age_25_34,53,county
+OUTAGAMIE,female_victims_age_35_44,49,county
+OUTAGAMIE,female_victims_age_45_54,38,county
+OUTAGAMIE,female_victims_age_55_64,17,county
+OUTAGAMIE,female_victims_age_65+,12,county
+OUTAGAMIE,male_victims_age_Under 18,43,county
+OUTAGAMIE,male_victims_age_18_24,21,county
+OUTAGAMIE,male_victims_age_25_34,34,county
+OUTAGAMIE,male_victims_age_35_44,29,county
+OUTAGAMIE,male_victims_age_45_54,25,county
+OUTAGAMIE,male_victims_age_55_64,14,county
+OUTAGAMIE,male_victims_age_65+,9,county
+OUTAGAMIE,unknown_victims_age_Under 18,0,county
+OUTAGAMIE,unknown_victims_age_18_24,0,county
+OUTAGAMIE,unknown_victims_age_25_34,0,county
+OUTAGAMIE,unknown_victims_age_35_44,0,county
+OUTAGAMIE,unknown_victims_age_45_54,0,county
+OUTAGAMIE,unknown_victims_age_55_64,0,county
+OUTAGAMIE,unknown_victims_age_65+,0,county
+"OUTAGAMIE, WAUPACA",female_victims_age_Under 18,0,county
+"OUTAGAMIE, WAUPACA",female_victims_age_18_24,0,county
+"OUTAGAMIE, WAUPACA",female_victims_age_25_34,1,county
+"OUTAGAMIE, WAUPACA",female_victims_age_35_44,0,county
+"OUTAGAMIE, WAUPACA",female_victims_age_45_54,0,county
+"OUTAGAMIE, WAUPACA",female_victims_age_55_64,0,county
+"OUTAGAMIE, WAUPACA",female_victims_age_65+,0,county
+"OUTAGAMIE, WAUPACA",male_victims_age_Under 18,0,county
+"OUTAGAMIE, WAUPACA",male_victims_age_18_24,0,county
+"OUTAGAMIE, WAUPACA",male_victims_age_25_34,2,county
+"OUTAGAMIE, WAUPACA",male_victims_age_35_44,1,county
+"OUTAGAMIE, WAUPACA",male_victims_age_45_54,0,county
+"OUTAGAMIE, WAUPACA",male_victims_age_55_64,0,county
+"OUTAGAMIE, WAUPACA",male_victims_age_65+,0,county
+"OUTAGAMIE, WAUPACA",unknown_victims_age_Under 18,0,county
+"OUTAGAMIE, WAUPACA",unknown_victims_age_18_24,0,county
+"OUTAGAMIE, WAUPACA",unknown_victims_age_25_34,0,county
+"OUTAGAMIE, WAUPACA",unknown_victims_age_35_44,0,county
+"OUTAGAMIE, WAUPACA",unknown_victims_age_45_54,0,county
+"OUTAGAMIE, WAUPACA",unknown_victims_age_55_64,0,county
+"OUTAGAMIE, WAUPACA",unknown_victims_age_65+,0,county
+OZAUKEE,female_victims_age_Under 18,13,county
+OZAUKEE,female_victims_age_18_24,11,county
+OZAUKEE,female_victims_age_25_34,29,county
+OZAUKEE,female_victims_age_35_44,20,county
+OZAUKEE,female_victims_age_45_54,15,county
+OZAUKEE,female_victims_age_55_64,8,county
+OZAUKEE,female_victims_age_65+,11,county
+OZAUKEE,male_victims_age_Under 18,12,county
+OZAUKEE,male_victims_age_18_24,7,county
+OZAUKEE,male_victims_age_25_34,12,county
+OZAUKEE,male_victims_age_35_44,6,county
+OZAUKEE,male_victims_age_45_54,11,county
+OZAUKEE,male_victims_age_55_64,6,county
+OZAUKEE,male_victims_age_65+,7,county
+OZAUKEE,unknown_victims_age_Under 18,0,county
+OZAUKEE,unknown_victims_age_18_24,0,county
+OZAUKEE,unknown_victims_age_25_34,0,county
+OZAUKEE,unknown_victims_age_35_44,0,county
+OZAUKEE,unknown_victims_age_45_54,0,county
+OZAUKEE,unknown_victims_age_55_64,0,county
+OZAUKEE,unknown_victims_age_65+,0,county
+PEPIN,female_victims_age_Under 18,1,county
+PEPIN,female_victims_age_18_24,0,county
+PEPIN,female_victims_age_25_34,0,county
+PEPIN,female_victims_age_35_44,1,county
+PEPIN,female_victims_age_45_54,0,county
+PEPIN,female_victims_age_55_64,0,county
+PEPIN,female_victims_age_65+,0,county
+PEPIN,male_victims_age_Under 18,2,county
+PEPIN,male_victims_age_18_24,0,county
+PEPIN,male_victims_age_25_34,2,county
+PEPIN,male_victims_age_35_44,0,county
+PEPIN,male_victims_age_45_54,1,county
+PEPIN,male_victims_age_55_64,1,county
+PEPIN,male_victims_age_65+,0,county
+PEPIN,unknown_victims_age_Under 18,0,county
+PEPIN,unknown_victims_age_18_24,0,county
+PEPIN,unknown_victims_age_25_34,0,county
+PEPIN,unknown_victims_age_35_44,0,county
+PEPIN,unknown_victims_age_45_54,0,county
+PEPIN,unknown_victims_age_55_64,0,county
+PEPIN,unknown_victims_age_65+,0,county
+PIERCE,female_victims_age_Under 18,1,county
+PIERCE,female_victims_age_18_24,6,county
+PIERCE,female_victims_age_25_34,5,county
+PIERCE,female_victims_age_35_44,6,county
+PIERCE,female_victims_age_45_54,3,county
+PIERCE,female_victims_age_55_64,5,county
+PIERCE,female_victims_age_65+,2,county
+PIERCE,male_victims_age_Under 18,2,county
+PIERCE,male_victims_age_18_24,7,county
+PIERCE,male_victims_age_25_34,8,county
+PIERCE,male_victims_age_35_44,8,county
+PIERCE,male_victims_age_45_54,5,county
+PIERCE,male_victims_age_55_64,5,county
+PIERCE,male_victims_age_65+,2,county
+PIERCE,unknown_victims_age_Under 18,0,county
+PIERCE,unknown_victims_age_18_24,0,county
+PIERCE,unknown_victims_age_25_34,0,county
+PIERCE,unknown_victims_age_35_44,0,county
+PIERCE,unknown_victims_age_45_54,0,county
+PIERCE,unknown_victims_age_55_64,0,county
+PIERCE,unknown_victims_age_65+,0,county
+"PIERCE, ST CROIX",female_victims_age_Under 18,6,county
+"PIERCE, ST CROIX",female_victims_age_18_24,8,county
+"PIERCE, ST CROIX",female_victims_age_25_34,17,county
+"PIERCE, ST CROIX",female_victims_age_35_44,11,county
+"PIERCE, ST CROIX",female_victims_age_45_54,3,county
+"PIERCE, ST CROIX",female_victims_age_55_64,2,county
+"PIERCE, ST CROIX",female_victims_age_65+,2,county
+"PIERCE, ST CROIX",male_victims_age_Under 18,6,county
+"PIERCE, ST CROIX",male_victims_age_18_24,8,county
+"PIERCE, ST CROIX",male_victims_age_25_34,7,county
+"PIERCE, ST CROIX",male_victims_age_35_44,6,county
+"PIERCE, ST CROIX",male_victims_age_45_54,2,county
+"PIERCE, ST CROIX",male_victims_age_55_64,3,county
+"PIERCE, ST CROIX",male_victims_age_65+,3,county
+"PIERCE, ST CROIX",unknown_victims_age_Under 18,0,county
+"PIERCE, ST CROIX",unknown_victims_age_18_24,0,county
+"PIERCE, ST CROIX",unknown_victims_age_25_34,0,county
+"PIERCE, ST CROIX",unknown_victims_age_35_44,0,county
+"PIERCE, ST CROIX",unknown_victims_age_45_54,0,county
+"PIERCE, ST CROIX",unknown_victims_age_55_64,0,county
+"PIERCE, ST CROIX",unknown_victims_age_65+,0,county
+POLK,female_victims_age_Under 18,17,county
+POLK,female_victims_age_18_24,12,county
+POLK,female_victims_age_25_34,17,county
+POLK,female_victims_age_35_44,31,county
+POLK,female_victims_age_45_54,18,county
+POLK,female_victims_age_55_64,8,county
+POLK,female_victims_age_65+,6,county
+POLK,male_victims_age_Under 18,21,county
+POLK,male_victims_age_18_24,9,county
+POLK,male_victims_age_25_34,6,county
+POLK,male_victims_age_35_44,16,county
+POLK,male_victims_age_45_54,8,county
+POLK,male_victims_age_55_64,2,county
+POLK,male_victims_age_65+,2,county
+POLK,unknown_victims_age_Under 18,0,county
+POLK,unknown_victims_age_18_24,0,county
+POLK,unknown_victims_age_25_34,1,county
+POLK,unknown_victims_age_35_44,0,county
+POLK,unknown_victims_age_45_54,0,county
+POLK,unknown_victims_age_55_64,0,county
+POLK,unknown_victims_age_65+,0,county
+PORTAGE,female_victims_age_Under 18,24,county
+PORTAGE,female_victims_age_18_24,43,county
+PORTAGE,female_victims_age_25_34,46,county
+PORTAGE,female_victims_age_35_44,49,county
+PORTAGE,female_victims_age_45_54,28,county
+PORTAGE,female_victims_age_55_64,23,county
+PORTAGE,female_victims_age_65+,12,county
+PORTAGE,male_victims_age_Under 18,41,county
+PORTAGE,male_victims_age_18_24,33,county
+PORTAGE,male_victims_age_25_34,38,county
+PORTAGE,male_victims_age_35_44,31,county
+PORTAGE,male_victims_age_45_54,19,county
+PORTAGE,male_victims_age_55_64,14,county
+PORTAGE,male_victims_age_65+,11,county
+PORTAGE,unknown_victims_age_Under 18,0,county
+PORTAGE,unknown_victims_age_18_24,0,county
+PORTAGE,unknown_victims_age_25_34,0,county
+PORTAGE,unknown_victims_age_35_44,0,county
+PORTAGE,unknown_victims_age_45_54,0,county
+PORTAGE,unknown_victims_age_55_64,0,county
+PORTAGE,unknown_victims_age_65+,0,county
+PRICE,female_victims_age_Under 18,6,county
+PRICE,female_victims_age_18_24,5,county
+PRICE,female_victims_age_25_34,10,county
+PRICE,female_victims_age_35_44,11,county
+PRICE,female_victims_age_45_54,1,county
+PRICE,female_victims_age_55_64,4,county
+PRICE,female_victims_age_65+,1,county
+PRICE,male_victims_age_Under 18,10,county
+PRICE,male_victims_age_18_24,4,county
+PRICE,male_victims_age_25_34,10,county
+PRICE,male_victims_age_35_44,7,county
+PRICE,male_victims_age_45_54,3,county
+PRICE,male_victims_age_55_64,0,county
+PRICE,male_victims_age_65+,1,county
+PRICE,unknown_victims_age_Under 18,0,county
+PRICE,unknown_victims_age_18_24,0,county
+PRICE,unknown_victims_age_25_34,0,county
+PRICE,unknown_victims_age_35_44,0,county
+PRICE,unknown_victims_age_45_54,0,county
+PRICE,unknown_victims_age_55_64,0,county
+PRICE,unknown_victims_age_65+,0,county
+RACINE,female_victims_age_Under 18,97,county
+RACINE,female_victims_age_18_24,126,county
+RACINE,female_victims_age_25_34,213,county
+RACINE,female_victims_age_35_44,145,county
+RACINE,female_victims_age_45_54,64,county
+RACINE,female_victims_age_55_64,37,county
+RACINE,female_victims_age_65+,18,county
+RACINE,male_victims_age_Under 18,89,county
+RACINE,male_victims_age_18_24,51,county
+RACINE,male_victims_age_25_34,97,county
+RACINE,male_victims_age_35_44,69,county
+RACINE,male_victims_age_45_54,56,county
+RACINE,male_victims_age_55_64,27,county
+RACINE,male_victims_age_65+,17,county
+RACINE,unknown_victims_age_Under 18,0,county
+RACINE,unknown_victims_age_18_24,0,county
+RACINE,unknown_victims_age_25_34,1,county
+RACINE,unknown_victims_age_35_44,0,county
+RACINE,unknown_victims_age_45_54,0,county
+RACINE,unknown_victims_age_55_64,0,county
+RACINE,unknown_victims_age_65+,0,county
+RICHLAND,female_victims_age_Under 18,2,county
+RICHLAND,female_victims_age_18_24,5,county
+RICHLAND,female_victims_age_25_34,4,county
+RICHLAND,female_victims_age_35_44,4,county
+RICHLAND,female_victims_age_45_54,1,county
+RICHLAND,female_victims_age_55_64,2,county
+RICHLAND,female_victims_age_65+,1,county
+RICHLAND,male_victims_age_Under 18,3,county
+RICHLAND,male_victims_age_18_24,4,county
+RICHLAND,male_victims_age_25_34,1,county
+RICHLAND,male_victims_age_35_44,5,county
+RICHLAND,male_victims_age_45_54,3,county
+RICHLAND,male_victims_age_55_64,0,county
+RICHLAND,male_victims_age_65+,3,county
+RICHLAND,unknown_victims_age_Under 18,0,county
+RICHLAND,unknown_victims_age_18_24,0,county
+RICHLAND,unknown_victims_age_25_34,0,county
+RICHLAND,unknown_victims_age_35_44,0,county
+RICHLAND,unknown_victims_age_45_54,0,county
+RICHLAND,unknown_victims_age_55_64,0,county
+RICHLAND,unknown_victims_age_65+,0,county
+ROCK,female_victims_age_Under 18,109,county
+ROCK,female_victims_age_18_24,132,county
+ROCK,female_victims_age_25_34,182,county
+ROCK,female_victims_age_35_44,163,county
+ROCK,female_victims_age_45_54,67,county
+ROCK,female_victims_age_55_64,44,county
+ROCK,female_victims_age_65+,20,county
+ROCK,male_victims_age_Under 18,120,county
+ROCK,male_victims_age_18_24,77,county
+ROCK,male_victims_age_25_34,97,county
+ROCK,male_victims_age_35_44,96,county
+ROCK,male_victims_age_45_54,63,county
+ROCK,male_victims_age_55_64,38,county
+ROCK,male_victims_age_65+,21,county
+ROCK,unknown_victims_age_Under 18,0,county
+ROCK,unknown_victims_age_18_24,0,county
+ROCK,unknown_victims_age_25_34,0,county
+ROCK,unknown_victims_age_35_44,0,county
+ROCK,unknown_victims_age_45_54,0,county
+ROCK,unknown_victims_age_55_64,0,county
+ROCK,unknown_victims_age_65+,0,county
+RUSK,female_victims_age_Under 18,4,county
+RUSK,female_victims_age_18_24,11,county
+RUSK,female_victims_age_25_34,14,county
+RUSK,female_victims_age_35_44,18,county
+RUSK,female_victims_age_45_54,8,county
+RUSK,female_victims_age_55_64,8,county
+RUSK,female_victims_age_65+,5,county
+RUSK,male_victims_age_Under 18,13,county
+RUSK,male_victims_age_18_24,6,county
+RUSK,male_victims_age_25_34,12,county
+RUSK,male_victims_age_35_44,3,county
+RUSK,male_victims_age_45_54,5,county
+RUSK,male_victims_age_55_64,8,county
+RUSK,male_victims_age_65+,7,county
+RUSK,unknown_victims_age_Under 18,0,county
+RUSK,unknown_victims_age_18_24,0,county
+RUSK,unknown_victims_age_25_34,0,county
+RUSK,unknown_victims_age_35_44,0,county
+RUSK,unknown_victims_age_45_54,0,county
+RUSK,unknown_victims_age_55_64,1,county
+RUSK,unknown_victims_age_65+,0,county
+SAUK,female_victims_age_Under 18,22,county
+SAUK,female_victims_age_18_24,27,county
+SAUK,female_victims_age_25_34,53,county
+SAUK,female_victims_age_35_44,49,county
+SAUK,female_victims_age_45_54,13,county
+SAUK,female_victims_age_55_64,8,county
+SAUK,female_victims_age_65+,6,county
+SAUK,male_victims_age_Under 18,40,county
+SAUK,male_victims_age_18_24,22,county
+SAUK,male_victims_age_25_34,39,county
+SAUK,male_victims_age_35_44,31,county
+SAUK,male_victims_age_45_54,17,county
+SAUK,male_victims_age_55_64,9,county
+SAUK,male_victims_age_65+,5,county
+SAUK,unknown_victims_age_Under 18,0,county
+SAUK,unknown_victims_age_18_24,0,county
+SAUK,unknown_victims_age_25_34,0,county
+SAUK,unknown_victims_age_35_44,0,county
+SAUK,unknown_victims_age_45_54,0,county
+SAUK,unknown_victims_age_55_64,0,county
+SAUK,unknown_victims_age_65+,0,county
+SAWYER,female_victims_age_Under 18,9,county
+SAWYER,female_victims_age_18_24,8,county
+SAWYER,female_victims_age_25_34,5,county
+SAWYER,female_victims_age_35_44,10,county
+SAWYER,female_victims_age_45_54,6,county
+SAWYER,female_victims_age_55_64,7,county
+SAWYER,female_victims_age_65+,0,county
+SAWYER,male_victims_age_Under 18,10,county
+SAWYER,male_victims_age_18_24,5,county
+SAWYER,male_victims_age_25_34,8,county
+SAWYER,male_victims_age_35_44,7,county
+SAWYER,male_victims_age_45_54,7,county
+SAWYER,male_victims_age_55_64,4,county
+SAWYER,male_victims_age_65+,1,county
+SAWYER,unknown_victims_age_Under 18,0,county
+SAWYER,unknown_victims_age_18_24,0,county
+SAWYER,unknown_victims_age_25_34,0,county
+SAWYER,unknown_victims_age_35_44,0,county
+SAWYER,unknown_victims_age_45_54,0,county
+SAWYER,unknown_victims_age_55_64,0,county
+SAWYER,unknown_victims_age_65+,0,county
+SHAWANO,female_victims_age_Under 18,17,county
+SHAWANO,female_victims_age_18_24,17,county
+SHAWANO,female_victims_age_25_34,21,county
+SHAWANO,female_victims_age_35_44,28,county
+SHAWANO,female_victims_age_45_54,22,county
+SHAWANO,female_victims_age_55_64,13,county
+SHAWANO,female_victims_age_65+,7,county
+SHAWANO,male_victims_age_Under 18,21,county
+SHAWANO,male_victims_age_18_24,9,county
+SHAWANO,male_victims_age_25_34,20,county
+SHAWANO,male_victims_age_35_44,8,county
+SHAWANO,male_victims_age_45_54,7,county
+SHAWANO,male_victims_age_55_64,8,county
+SHAWANO,male_victims_age_65+,1,county
+SHAWANO,unknown_victims_age_Under 18,0,county
+SHAWANO,unknown_victims_age_18_24,0,county
+SHAWANO,unknown_victims_age_25_34,0,county
+SHAWANO,unknown_victims_age_35_44,0,county
+SHAWANO,unknown_victims_age_45_54,0,county
+SHAWANO,unknown_victims_age_55_64,0,county
+SHAWANO,unknown_victims_age_65+,0,county
+SHEBOYGAN,female_victims_age_Under 18,119,county
+SHEBOYGAN,female_victims_age_18_24,85,county
+SHEBOYGAN,female_victims_age_25_34,130,county
+SHEBOYGAN,female_victims_age_35_44,118,county
+SHEBOYGAN,female_victims_age_45_54,65,county
+SHEBOYGAN,female_victims_age_55_64,37,county
+SHEBOYGAN,female_victims_age_65+,16,county
+SHEBOYGAN,male_victims_age_Under 18,178,county
+SHEBOYGAN,male_victims_age_18_24,79,county
+SHEBOYGAN,male_victims_age_25_34,89,county
+SHEBOYGAN,male_victims_age_35_44,84,county
+SHEBOYGAN,male_victims_age_45_54,56,county
+SHEBOYGAN,male_victims_age_55_64,26,county
+SHEBOYGAN,male_victims_age_65+,24,county
+SHEBOYGAN,unknown_victims_age_Under 18,0,county
+SHEBOYGAN,unknown_victims_age_18_24,0,county
+SHEBOYGAN,unknown_victims_age_25_34,0,county
+SHEBOYGAN,unknown_victims_age_35_44,0,county
+SHEBOYGAN,unknown_victims_age_45_54,0,county
+SHEBOYGAN,unknown_victims_age_55_64,0,county
+SHEBOYGAN,unknown_victims_age_65+,0,county
+ST CROIX,female_victims_age_Under 18,4,county
+ST CROIX,female_victims_age_18_24,13,county
+ST CROIX,female_victims_age_25_34,39,county
+ST CROIX,female_victims_age_35_44,37,county
+ST CROIX,female_victims_age_45_54,19,county
+ST CROIX,female_victims_age_55_64,11,county
+ST CROIX,female_victims_age_65+,6,county
+ST CROIX,male_victims_age_Under 18,9,county
+ST CROIX,male_victims_age_18_24,24,county
+ST CROIX,male_victims_age_25_34,28,county
+ST CROIX,male_victims_age_35_44,18,county
+ST CROIX,male_victims_age_45_54,15,county
+ST CROIX,male_victims_age_55_64,13,county
+ST CROIX,male_victims_age_65+,8,county
+ST CROIX,unknown_victims_age_Under 18,0,county
+ST CROIX,unknown_victims_age_18_24,0,county
+ST CROIX,unknown_victims_age_25_34,0,county
+ST CROIX,unknown_victims_age_35_44,0,county
+ST CROIX,unknown_victims_age_45_54,0,county
+ST CROIX,unknown_victims_age_55_64,0,county
+ST CROIX,unknown_victims_age_65+,1,county
+TAYLOR,female_victims_age_Under 18,5,county
+TAYLOR,female_victims_age_18_24,7,county
+TAYLOR,female_victims_age_25_34,14,county
+TAYLOR,female_victims_age_35_44,15,county
+TAYLOR,female_victims_age_45_54,12,county
+TAYLOR,female_victims_age_55_64,7,county
+TAYLOR,female_victims_age_65+,4,county
+TAYLOR,male_victims_age_Under 18,7,county
+TAYLOR,male_victims_age_18_24,8,county
+TAYLOR,male_victims_age_25_34,20,county
+TAYLOR,male_victims_age_35_44,16,county
+TAYLOR,male_victims_age_45_54,9,county
+TAYLOR,male_victims_age_55_64,5,county
+TAYLOR,male_victims_age_65+,4,county
+TAYLOR,unknown_victims_age_Under 18,0,county
+TAYLOR,unknown_victims_age_18_24,0,county
+TAYLOR,unknown_victims_age_25_34,0,county
+TAYLOR,unknown_victims_age_35_44,0,county
+TAYLOR,unknown_victims_age_45_54,0,county
+TAYLOR,unknown_victims_age_55_64,0,county
+TAYLOR,unknown_victims_age_65+,0,county
+TREMPEALEAU,female_victims_age_Under 18,3,county
+TREMPEALEAU,female_victims_age_18_24,2,county
+TREMPEALEAU,female_victims_age_25_34,6,county
+TREMPEALEAU,female_victims_age_35_44,3,county
+TREMPEALEAU,female_victims_age_45_54,8,county
+TREMPEALEAU,female_victims_age_55_64,3,county
+TREMPEALEAU,female_victims_age_65+,0,county
+TREMPEALEAU,male_victims_age_Under 18,4,county
+TREMPEALEAU,male_victims_age_18_24,7,county
+TREMPEALEAU,male_victims_age_25_34,4,county
+TREMPEALEAU,male_victims_age_35_44,4,county
+TREMPEALEAU,male_victims_age_45_54,3,county
+TREMPEALEAU,male_victims_age_55_64,0,county
+TREMPEALEAU,male_victims_age_65+,1,county
+TREMPEALEAU,unknown_victims_age_Under 18,0,county
+TREMPEALEAU,unknown_victims_age_18_24,0,county
+TREMPEALEAU,unknown_victims_age_25_34,0,county
+TREMPEALEAU,unknown_victims_age_35_44,0,county
+TREMPEALEAU,unknown_victims_age_45_54,0,county
+TREMPEALEAU,unknown_victims_age_55_64,0,county
+TREMPEALEAU,unknown_victims_age_65+,0,county
+VERNON,female_victims_age_Under 18,6,county
+VERNON,female_victims_age_18_24,8,county
+VERNON,female_victims_age_25_34,12,county
+VERNON,female_victims_age_35_44,19,county
+VERNON,female_victims_age_45_54,8,county
+VERNON,female_victims_age_55_64,3,county
+VERNON,female_victims_age_65+,6,county
+VERNON,male_victims_age_Under 18,11,county
+VERNON,male_victims_age_18_24,8,county
+VERNON,male_victims_age_25_34,7,county
+VERNON,male_victims_age_35_44,6,county
+VERNON,male_victims_age_45_54,10,county
+VERNON,male_victims_age_55_64,7,county
+VERNON,male_victims_age_65+,0,county
+VERNON,unknown_victims_age_Under 18,0,county
+VERNON,unknown_victims_age_18_24,0,county
+VERNON,unknown_victims_age_25_34,0,county
+VERNON,unknown_victims_age_35_44,0,county
+VERNON,unknown_victims_age_45_54,0,county
+VERNON,unknown_victims_age_55_64,0,county
+VERNON,unknown_victims_age_65+,0,county
+VILAS,female_victims_age_Under 18,0,county
+VILAS,female_victims_age_18_24,2,county
+VILAS,female_victims_age_25_34,9,county
+VILAS,female_victims_age_35_44,6,county
+VILAS,female_victims_age_45_54,7,county
+VILAS,female_victims_age_55_64,3,county
+VILAS,female_victims_age_65+,3,county
+VILAS,male_victims_age_Under 18,2,county
+VILAS,male_victims_age_18_24,0,county
+VILAS,male_victims_age_25_34,3,county
+VILAS,male_victims_age_35_44,3,county
+VILAS,male_victims_age_45_54,7,county
+VILAS,male_victims_age_55_64,5,county
+VILAS,male_victims_age_65+,1,county
+VILAS,unknown_victims_age_Under 18,0,county
+VILAS,unknown_victims_age_18_24,0,county
+VILAS,unknown_victims_age_25_34,0,county
+VILAS,unknown_victims_age_35_44,0,county
+VILAS,unknown_victims_age_45_54,0,county
+VILAS,unknown_victims_age_55_64,0,county
+VILAS,unknown_victims_age_65+,0,county
+WALWORTH,female_victims_age_Under 18,23,county
+WALWORTH,female_victims_age_18_24,21,county
+WALWORTH,female_victims_age_25_34,44,county
+WALWORTH,female_victims_age_35_44,32,county
+WALWORTH,female_victims_age_45_54,22,county
+WALWORTH,female_victims_age_55_64,11,county
+WALWORTH,female_victims_age_65+,5,county
+WALWORTH,male_victims_age_Under 18,26,county
+WALWORTH,male_victims_age_18_24,28,county
+WALWORTH,male_victims_age_25_34,25,county
+WALWORTH,male_victims_age_35_44,18,county
+WALWORTH,male_victims_age_45_54,13,county
+WALWORTH,male_victims_age_55_64,14,county
+WALWORTH,male_victims_age_65+,13,county
+WALWORTH,unknown_victims_age_Under 18,0,county
+WALWORTH,unknown_victims_age_18_24,0,county
+WALWORTH,unknown_victims_age_25_34,0,county
+WALWORTH,unknown_victims_age_35_44,0,county
+WALWORTH,unknown_victims_age_45_54,0,county
+WALWORTH,unknown_victims_age_55_64,0,county
+WALWORTH,unknown_victims_age_65+,0,county
+"WALWORTH, WAUKESHA",female_victims_age_Under 18,2,county
+"WALWORTH, WAUKESHA",female_victims_age_18_24,2,county
+"WALWORTH, WAUKESHA",female_victims_age_25_34,1,county
+"WALWORTH, WAUKESHA",female_victims_age_35_44,2,county
+"WALWORTH, WAUKESHA",female_victims_age_45_54,1,county
+"WALWORTH, WAUKESHA",female_victims_age_55_64,0,county
+"WALWORTH, WAUKESHA",female_victims_age_65+,0,county
+"WALWORTH, WAUKESHA",male_victims_age_Under 18,3,county
+"WALWORTH, WAUKESHA",male_victims_age_18_24,0,county
+"WALWORTH, WAUKESHA",male_victims_age_25_34,0,county
+"WALWORTH, WAUKESHA",male_victims_age_35_44,1,county
+"WALWORTH, WAUKESHA",male_victims_age_45_54,0,county
+"WALWORTH, WAUKESHA",male_victims_age_55_64,1,county
+"WALWORTH, WAUKESHA",male_victims_age_65+,0,county
+"WALWORTH, WAUKESHA",unknown_victims_age_Under 18,0,county
+"WALWORTH, WAUKESHA",unknown_victims_age_18_24,0,county
+"WALWORTH, WAUKESHA",unknown_victims_age_25_34,0,county
+"WALWORTH, WAUKESHA",unknown_victims_age_35_44,0,county
+"WALWORTH, WAUKESHA",unknown_victims_age_45_54,0,county
+"WALWORTH, WAUKESHA",unknown_victims_age_55_64,0,county
+"WALWORTH, WAUKESHA",unknown_victims_age_65+,0,county
+WASHBURN,female_victims_age_Under 18,3,county
+WASHBURN,female_victims_age_18_24,2,county
+WASHBURN,female_victims_age_25_34,8,county
+WASHBURN,female_victims_age_35_44,13,county
+WASHBURN,female_victims_age_45_54,1,county
+WASHBURN,female_victims_age_55_64,3,county
+WASHBURN,female_victims_age_65+,1,county
+WASHBURN,male_victims_age_Under 18,14,county
+WASHBURN,male_victims_age_18_24,3,county
+WASHBURN,male_victims_age_25_34,7,county
+WASHBURN,male_victims_age_35_44,5,county
+WASHBURN,male_victims_age_45_54,4,county
+WASHBURN,male_victims_age_55_64,1,county
+WASHBURN,male_victims_age_65+,4,county
+WASHBURN,unknown_victims_age_Under 18,0,county
+WASHBURN,unknown_victims_age_18_24,0,county
+WASHBURN,unknown_victims_age_25_34,0,county
+WASHBURN,unknown_victims_age_35_44,0,county
+WASHBURN,unknown_victims_age_45_54,0,county
+WASHBURN,unknown_victims_age_55_64,0,county
+WASHBURN,unknown_victims_age_65+,0,county
+WASHINGTON,female_victims_age_Under 18,36,county
+WASHINGTON,female_victims_age_18_24,24,county
+WASHINGTON,female_victims_age_25_34,39,county
+WASHINGTON,female_victims_age_35_44,36,county
+WASHINGTON,female_victims_age_45_54,25,county
+WASHINGTON,female_victims_age_55_64,9,county
+WASHINGTON,female_victims_age_65+,5,county
+WASHINGTON,male_victims_age_Under 18,60,county
+WASHINGTON,male_victims_age_18_24,15,county
+WASHINGTON,male_victims_age_25_34,19,county
+WASHINGTON,male_victims_age_35_44,16,county
+WASHINGTON,male_victims_age_45_54,28,county
+WASHINGTON,male_victims_age_55_64,9,county
+WASHINGTON,male_victims_age_65+,8,county
+WASHINGTON,unknown_victims_age_Under 18,2,county
+WASHINGTON,unknown_victims_age_18_24,0,county
+WASHINGTON,unknown_victims_age_25_34,0,county
+WASHINGTON,unknown_victims_age_35_44,0,county
+WASHINGTON,unknown_victims_age_45_54,0,county
+WASHINGTON,unknown_victims_age_55_64,0,county
+WASHINGTON,unknown_victims_age_65+,0,county
+WAUKESHA,female_victims_age_Under 18,88,county
+WAUKESHA,female_victims_age_18_24,103,county
+WAUKESHA,female_victims_age_25_34,114,county
+WAUKESHA,female_victims_age_35_44,143,county
+WAUKESHA,female_victims_age_45_54,112,county
+WAUKESHA,female_victims_age_55_64,50,county
+WAUKESHA,female_victims_age_65+,46,county
+WAUKESHA,male_victims_age_Under 18,138,county
+WAUKESHA,male_victims_age_18_24,65,county
+WAUKESHA,male_victims_age_25_34,71,county
+WAUKESHA,male_victims_age_35_44,71,county
+WAUKESHA,male_victims_age_45_54,70,county
+WAUKESHA,male_victims_age_55_64,54,county
+WAUKESHA,male_victims_age_65+,39,county
+WAUKESHA,unknown_victims_age_Under 18,0,county
+WAUKESHA,unknown_victims_age_18_24,0,county
+WAUKESHA,unknown_victims_age_25_34,0,county
+WAUKESHA,unknown_victims_age_35_44,0,county
+WAUKESHA,unknown_victims_age_45_54,0,county
+WAUKESHA,unknown_victims_age_55_64,0,county
+WAUKESHA,unknown_victims_age_65+,0,county
+WAUPACA,female_victims_age_Under 18,13,county
+WAUPACA,female_victims_age_18_24,4,county
+WAUPACA,female_victims_age_25_34,20,county
+WAUPACA,female_victims_age_35_44,21,county
+WAUPACA,female_victims_age_45_54,14,county
+WAUPACA,female_victims_age_55_64,1,county
+WAUPACA,female_victims_age_65+,4,county
+WAUPACA,male_victims_age_Under 18,20,county
+WAUPACA,male_victims_age_18_24,6,county
+WAUPACA,male_victims_age_25_34,18,county
+WAUPACA,male_victims_age_35_44,9,county
+WAUPACA,male_victims_age_45_54,6,county
+WAUPACA,male_victims_age_55_64,5,county
+WAUPACA,male_victims_age_65+,2,county
+WAUPACA,unknown_victims_age_Under 18,0,county
+WAUPACA,unknown_victims_age_18_24,0,county
+WAUPACA,unknown_victims_age_25_34,0,county
+WAUPACA,unknown_victims_age_35_44,0,county
+WAUPACA,unknown_victims_age_45_54,0,county
+WAUPACA,unknown_victims_age_55_64,0,county
+WAUPACA,unknown_victims_age_65+,0,county
+WAUSHARA,female_victims_age_Under 18,2,county
+WAUSHARA,female_victims_age_18_24,1,county
+WAUSHARA,female_victims_age_25_34,7,county
+WAUSHARA,female_victims_age_35_44,8,county
+WAUSHARA,female_victims_age_45_54,1,county
+WAUSHARA,female_victims_age_55_64,3,county
+WAUSHARA,female_victims_age_65+,2,county
+WAUSHARA,male_victims_age_Under 18,4,county
+WAUSHARA,male_victims_age_18_24,1,county
+WAUSHARA,male_victims_age_25_34,4,county
+WAUSHARA,male_victims_age_35_44,10,county
+WAUSHARA,male_victims_age_45_54,1,county
+WAUSHARA,male_victims_age_55_64,4,county
+WAUSHARA,male_victims_age_65+,2,county
+WAUSHARA,unknown_victims_age_Under 18,0,county
+WAUSHARA,unknown_victims_age_18_24,0,county
+WAUSHARA,unknown_victims_age_25_34,0,county
+WAUSHARA,unknown_victims_age_35_44,0,county
+WAUSHARA,unknown_victims_age_45_54,0,county
+WAUSHARA,unknown_victims_age_55_64,0,county
+WAUSHARA,unknown_victims_age_65+,0,county
+WINNEBAGO,female_victims_age_Under 18,83,county
+WINNEBAGO,female_victims_age_18_24,99,county
+WINNEBAGO,female_victims_age_25_34,159,county
+WINNEBAGO,female_victims_age_35_44,150,county
+WINNEBAGO,female_victims_age_45_54,98,county
+WINNEBAGO,female_victims_age_55_64,37,county
+WINNEBAGO,female_victims_age_65+,25,county
+WINNEBAGO,male_victims_age_Under 18,95,county
+WINNEBAGO,male_victims_age_18_24,91,county
+WINNEBAGO,male_victims_age_25_34,86,county
+WINNEBAGO,male_victims_age_35_44,72,county
+WINNEBAGO,male_victims_age_45_54,46,county
+WINNEBAGO,male_victims_age_55_64,31,county
+WINNEBAGO,male_victims_age_65+,14,county
+WINNEBAGO,unknown_victims_age_Under 18,0,county
+WINNEBAGO,unknown_victims_age_18_24,1,county
+WINNEBAGO,unknown_victims_age_25_34,0,county
+WINNEBAGO,unknown_victims_age_35_44,0,county
+WINNEBAGO,unknown_victims_age_45_54,0,county
+WINNEBAGO,unknown_victims_age_55_64,0,county
+WINNEBAGO,unknown_victims_age_65+,0,county
+WOOD,female_victims_age_Under 18,35,county
+WOOD,female_victims_age_18_24,29,county
+WOOD,female_victims_age_25_34,44,county
+WOOD,female_victims_age_35_44,42,county
+WOOD,female_victims_age_45_54,20,county
+WOOD,female_victims_age_55_64,10,county
+WOOD,female_victims_age_65+,5,county
+WOOD,male_victims_age_Under 18,42,county
+WOOD,male_victims_age_18_24,16,county
+WOOD,male_victims_age_25_34,23,county
+WOOD,male_victims_age_35_44,31,county
+WOOD,male_victims_age_45_54,12,county
+WOOD,male_victims_age_55_64,8,county
+WOOD,male_victims_age_65+,4,county
+WOOD,unknown_victims_age_Under 18,0,county
+WOOD,unknown_victims_age_18_24,0,county
+WOOD,unknown_victims_age_25_34,0,county
+WOOD,unknown_victims_age_35_44,0,county
+WOOD,unknown_victims_age_45_54,0,county
+WOOD,unknown_victims_age_55_64,0,county
+WOOD,unknown_victims_age_65+,0,county
