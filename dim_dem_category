@@ -81,3 +81,34 @@ DATATABLE(
         {68, "B12001_020E", "Female", "Marital Status", "Widowed"}
     }
 )
+
+
+
+
+Selected Demo Breakdown Female = 
+CALCULATE(
+    SUM(fact_acs_wi_county[estimate]),
+    FILTER(
+        dim_dem_category,
+        dim_dem_category[gender] = "Female" &&
+        dim_dem_category[category] = 
+            SELECTEDVALUE('Demo Category Selector'[category], "Age")
+    )
+)
+
+
+
+
+
+Selected Demo Breakdown Male = 
+CALCULATE(
+    SUM(fact_acs_wi_county[estimate]),
+    FILTER(
+        dim_dem_category,
+        dim_dem_category[gender] = "Male" &&
+        dim_dem_category[category] = 
+            SELECTEDVALUE('Demo Category Selector'[category], "Age")
+    )
+)
+
+
