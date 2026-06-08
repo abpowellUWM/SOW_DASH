@@ -1,0 +1,64 @@
+dim_topic_selector = 
+DATATABLE(
+    "topic_key", INTEGER,
+    "topic_label", STRING,
+    {
+        {1, "Demographics"},
+        {2, "Health"},
+        {3, "Economic Security"},
+        {4, "Race & Equity"},
+        {5, "Violence & Safety"}
+    }
+)
+
+--
+
+dim_indicator_selector = 
+DATATABLE(
+    "indicator_key", INTEGER,
+    "topic_label", STRING,
+    "indicator_label", STRING,
+    {
+        {1,  "Demographics", "Age 25-44"},
+        {2,  "Demographics", "Bachelor's or Higher"},
+        {3,  "Demographics", "Married"},
+        {4,  "Demographics", "Not Married"},
+        {5,  "Health", "Birth Count"},
+        {6,  "Health", "Teen Birth Rate"},
+        {7,  "Economic Security", "Median Earnings"}
+    }
+)
+
+---
+
+
+
+Selected Geography Indicator Female = 
+VAR _selected = SELECTEDVALUE(dim_indicator_selector[indicator_label])
+RETURN
+SWITCH(
+    _selected,
+    "Age 25-44",            [Selected Demo Breakdown Female],
+    "Bachelor's or Higher", [Selected Demo Breakdown Female],
+    "Married",              [Selected Demo Breakdown Female],
+    "Not Married",          [Selected Demo Breakdown Female],
+    "Birth Count",          BLANK(),   -- placeholder until Health measures exist
+    "Teen Birth Rate",      BLANK(),   -- placeholder
+    "Median Earnings",      BLANK(),   -- placeholder until Econ Security measures exist
+    BLANK()
+)
+
+Selected Geography Indicator Male = 
+VAR _selected = SELECTEDVALUE(dim_indicator_selector[indicator_label])
+RETURN
+SWITCH(
+    _selected,
+    "Age 25-44",            [Selected Demo Breakdown Male],
+    "Bachelor's or Higher", [Selected Demo Breakdown Male],
+    "Married",              [Selected Demo Breakdown Male],
+    "Not Married",          [Selected Demo Breakdown Male],
+    "Birth Count",          BLANK(),
+    "Teen Birth Rate",      BLANK(),
+    "Median Earnings",      BLANK(),
+    BLANK()
+)
