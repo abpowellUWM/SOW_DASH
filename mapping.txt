@@ -1,0 +1,58 @@
+# Relationship codes that constitute DV under FBI/NIBRS definition
+dv_relationship_codes = [
+    'SE',   # Victim Was Spouse
+    'CS',   # Victim Was Common-Law Spouse
+    'XS',   # Victim Was Ex-Spouse
+    'XR',   # Victim Was Ex-Relationship (Ex-Boyfriend/Girlfriend)
+    'BG',   # Victim Was Boyfriend/Girlfriend
+    'CF',   # Victim Was Child of Boyfriend/Girlfriend
+    'HR',   # Homosexual Relationship (discontinued — may appear in historical data)
+    'PA',   # Victim Was Parent
+    'CH',   # Victim Was Child (includes stepchild, child of BF/GF)
+    'SP',   # Victim Was Stepparent
+    'SC',   # Victim Was Stepchild
+    'FC',   # Victim Was Foster Child
+    'FP',   # Victim Was Foster Parent
+]
+
+# Offense codes recognized in a DV context under FBI/NIBRS
+dv_offense_codes = [
+    # Homicide
+    '09A',  # Murder and Nonnegligent Manslaughter
+    '09B',  # Negligent Manslaughter
+    '09C',  # Justifiable Homicide
+
+    # Sex offenses
+    '11A',  # Rape
+    '11B',  # Sodomy
+    '11C',  # Sexual Assault With an Object
+    '11D',  # Criminal Sexual Contact / Fondling
+    '36A',  # Incest (Sex Offenses, Non-forcible)
+
+    # Assault offenses
+    '13A',  # Aggravated Assault
+    '13B',  # Simple Assault
+    '13C',  # Intimidation
+
+    # Kidnapping
+    '100',  # Kidnapping/Abduction
+
+    # Property offenses
+    '120',  # Robbery
+    '210',  # Extortion/Blackmail
+    '220',  # Burglary/Breaking & Entering
+    '240',  # Motor Vehicle Theft
+    '250',  # Counterfeiting/Forgery
+    '270',  # Embezzlement
+    '290',  # Destruction/Damage/Vandalism of Property
+
+    # Larceny/Theft offenses
+    '23A',  # Pocket-picking
+    '23B',  # Purse-snatching
+    '23C',  # Shoplifting
+    '23D',  # Theft From Building
+    '23E',  # Theft From Coin-Operated Machine or Device
+    '23F',  # Theft From Motor Vehicle
+    '23G',  # Theft of Motor Vehicle Parts or Accessories
+    '23H',  # All Other Larceny
+]
